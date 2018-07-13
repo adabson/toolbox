@@ -1,4 +1,3 @@
-
-A Collection of preffered settings for various editors
+A collection of preffered editor settings
 -
-![alt text](http://thenewcode.com/assets/images/thumbnails/homer-simpson.svg "Logo Title Text 1")
+![alt text](https://onitz.github.io/toolbox/homer-simpson.svg "Homer goes where he pleases.")
