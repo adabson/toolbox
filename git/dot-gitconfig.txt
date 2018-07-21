@@ -1,0 +1,17 @@
+[user]
+  name = Dabson
+  email = cyphlix@gmail.com
+
+[core]
+  editor = vim
+  eol = lf
+
+[color]
+  ui = true
+
+[alias]
+  lg = log -n 20 --pretty=format:"%C(Yellow)%h%Creset|%ar|%C(Red)%an%Creset|%s" -20
+  g = "!f() { git add -A && git commit -m \"$@\" && git push; }; f"
+
+[credential]
+  helper = manager
