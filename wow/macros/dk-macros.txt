@@ -29,3 +29,8 @@ tal5 --------------------------
 #showtooltip
 /cast [talent:5/2] Wraith Walk
 /cast [talent:5/3] Death Pact
+
+tal7 --------------------------
+#showtooltip
+/cast [talent:7/2] Unholy Frenzy
+/cast [talent:7/3] Summon Gargoyle
