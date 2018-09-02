@@ -1,0 +1,31 @@
+dark --------------------------
+#showtooltip
+/petattack
+/petassist
+/cast [nopet] Raise Dead
+/cast Dark Transformation
+
+gnaw --------------------------
+#showtooltip
+/cast [nopet] Raise Dead
+/cast Leap
+/cast Gnaw
+/petattack
+/petassist
+
+oAoe --------------------------
+#showtooltip
+/cast [@cursor] Death and Decay
+
+oBrk (unholy) -----------------
+#showtooltip Outbreak
+/cast [target=mouseover,exists] Outbreak; Outbreak
+
+oIce --------------------------
+#showtooltip Chains of Ice
+/cast [target=mouseover,exists] Chains of Ice; Chains of Ice
+
+tal5 --------------------------
+#showtooltip
+/cast [talent:5/2] Wraith Walk
+/cast [talent:5/3] Death Pact

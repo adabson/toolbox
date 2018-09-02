@@ -1,0 +1,39 @@
+Mill ----------------------
+#showtooltip Milling
+/run MillButtonSetup()
+/click MillButton
+
+Horse quest Kul-tiras -------
+/target Paper
+/click OverrideActionBarButton3
+
+Mount -----------------
+#showtooltip
+/dismount
+/castrandom Enchanted Fey Dragon, Ashes of Al'ar
+
+Quest (use 1st bag item) ---------
+#showtooltip
+/use 0 1
+
+Mark Skull ---------------
+/tm 8
+
+World mark ---------
+/worldmarker 1
+
+World mark clear ---------
+/clearworldmarker 1
+
+QuestStone ----
+#showtooltip
+/use healthstone
+/use 0 1
+
+Multi-mount --------------
+#showicon
+/castrandom [nomounted, flyable] Winged Steed of the Ebon Blade
+/cast [nomounted, swimming] Abyssal Seahorse
+/castrandom [nomounted] Acherus Deathcharger
+/dismount
+
