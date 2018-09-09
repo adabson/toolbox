@@ -24,7 +24,7 @@ oBrk (unholy) -----------------
 oBlast (frost) -----------------
 #showtooltip Howling Blast
 /cast [target=mouseover,exists] Howling Blast; Howling Blast
-
+p
 oIce --------------------------
 #showtooltip Chains of Ice
 /cast [target=mouseover,exists] Chains of Ice; Chains of Ice
