@@ -21,6 +21,10 @@ oBrk (unholy) -----------------
 #showtooltip Outbreak
 /cast [target=mouseover,exists] Outbreak; Outbreak
 
+oBlast (frost) -----------------
+#showtooltip Howling Blast
+/cast [target=mouseover,exists] Howling Blast; Howling Blast
+
 oIce --------------------------
 #showtooltip Chains of Ice
 /cast [target=mouseover,exists] Chains of Ice; Chains of Ice
