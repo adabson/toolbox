@@ -2,3 +2,7 @@ oAoe --------------------------
 #showtooltip
 /cast [@cursor] Metamorphosis
 
+
+hStrike -----------------------
+#showtooltip
+/cast [@cursor] Infernal Strike
