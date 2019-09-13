@@ -8,6 +8,11 @@
 <Label w1 local SendWinM WoW1>
 <Label w2 local SendWinM WoW2>
 
-<MovementHotkey 1, 2, 3, 4, 5, 6, Tab, Shift, w, a, s, d, q, e, r, t, y, f, g, z, x, c, v, b, up, down, left, right>
+<KeyList DabsonKeys A-Z, 1-6 except w, a, s, d>
+<Hotkey NumLockOn DabsonKeys; NumLockOn Shift DabsonKeys>
+<SendLabel w1, w2>
+<Key %Trigger%>
+
+<MovementHotkey w, a, s, d, up, down, left, right>
 <SendLabel w1, w2>
 <Key %Trigger%>
