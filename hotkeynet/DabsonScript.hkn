@@ -10,7 +10,7 @@
 
 // Oem3 = `
 // http://www.hotkeynet.com/ref/keynames.html
-<KeyList DabsonKeys Oem3, tab, 1-6, A-Z except w, a, s, d>
+<KeyList DabsonKeys Oem3, space, tab, esc, 1-6, A-Z except w, a, s, d>
 <Hotkey NumLockOn DabsonKeys; NumLockOn Shift DabsonKeys; NumLockOn LCtrl Space>
 <SendLabel w1, w2>
 <Key %Trigger%>
