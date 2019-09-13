@@ -1,0 +1,5 @@
+<Label alpha local SendWinM WoW1>
+<Label bravo local SendWinM WoW2>
+<MovementHotkey 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, w, a, s, d>
+<SendLabel alpha, bravo>
+<Key %Trigger%>

@@ -1,7 +1,13 @@
-<Label alpha local SendWinM wow1>
-<Label bravo local SendWinM wow2>
+<Hotkey F1><SendPC local><ToggleHotkeys>
+<Hotkey F2><SendPC local><LoadScript c:\git\toolbox\hotkeynet\DabsonScript.hkn>
+<Hotkey Ctrl Shift R>
+    <SendPC local>
+        <RenameWin "World of Warcraft" WoW1>
+        <RenameWin "World of Warcraft" WoW2>
+
+<Label w1 local SendWinM WoW1>
+<Label w2 local SendWinM WoW2>
+
 <MovementHotkey 1, 2, 3, 4, 5, 6, Tab, Shift, w, a, s, d, q, e, r, t, y, f, g, z, x, c, v, b, up, down, left, right>
-<SendLabel alpha, bravo>
+<SendLabel w1, w2>
 <Key %Trigger%>
-<hotkey F1><sendpc local><ToggleHotkeys>
-<hotkey F2><sendpc local><LoadScript c:\git\toolbox\hotkeynet\DabsonScript.hkn>
