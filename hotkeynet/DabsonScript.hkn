@@ -1,6 +1,7 @@
 <Label alpha local SendWinM wow1>
 <Label bravo local SendWinM wow2>
-<MovementHotkey 1, 2, 3, 4, 5, 6, Tab, Shift, w, a, s, d, q, e, r, t, y, f, g, z, x, c, v, b, LeftArrow>
+<MovementHotkey 1, 2, 3, 4, 5, 6, Tab, Shift, w, a, s, d, q, e, r, t, y, f, g, z, x, c, v, b, up, down, left, right>
 <SendLabel alpha, bravo>
 <Key %Trigger%>
 <hotkey F1><sendpc local><ToggleHotkeys>
+<hotkey F2><sendpc local><LoadScript c:\git\toolbox\hotkeynet\DabsonScript.hkn>
