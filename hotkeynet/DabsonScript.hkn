@@ -1,6 +1,6 @@
 <Hotkey F1><SendPC local><ToggleHotkeys>
 <Hotkey F2><SendPC local><LoadScript c:\git\toolbox\hotkeynet\DabsonScript.hkn>
-<Hotkey Ctrl Shift R>
+<Hotkey F3>
     <SendPC local>
         <RenameWin "World of Warcraft" WoW1>
         <RenameWin "World of Warcraft" WoW2>
