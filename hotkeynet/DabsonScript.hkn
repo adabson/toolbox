@@ -8,13 +8,12 @@
 <Label w1 local SendWinM WoW1>
 <Label w2 local SendWinM WoW2>
 
-// Oem3 = `
-// http://www.hotkeynet.com/ref/keynames.html
-<KeyList DabsonKeys Oem3, space, tab, esc, 1-6, A-Z except w, a, s, d>
-<Hotkey NumLockOn DabsonKeys; NumLockOn Shift DabsonKeys; NumLockOn LCtrl Space>
+<KeyList ActionKeys Oem3, space, tab, esc, 1-6, A-Z except w, a, s, d>
+<Hotkey NumLockOn ActionKeys; NumLockOn Shift ActionKeys; NumLockOn LCtrl Space>
 <SendLabel w1, w2>
 <Key %Trigger%>
 
-<MovementHotkey w, a, s, d, up, down, left, right>
+<KeyList MovementKeys w, a, s, d, up, down, left, right>
+<MovementHotkey MovementKeys; Shift MovementKeys>
 <SendLabel w1, w2>
 <Key %Trigger%>
