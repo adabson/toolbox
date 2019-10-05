@@ -14,6 +14,6 @@
 <Key %Trigger%>
 
 <KeyList MovementKeys w, a, s, d, up, down, left, right>
-<MovementHotkey MovementKeys; Shift MovementKeys>
+<MovementHotkey MovementKeys; Shift MovementKeys except w>
 <SendLabel w1, w2>
 <Key %Trigger%>
