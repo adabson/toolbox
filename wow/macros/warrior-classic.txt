@@ -1,0 +1,9 @@
+zoom --------------------------
+#showtooltip [nocombat] Charge; [combat] Intercept
+/dismount
+/cast [nocombat] Battle Stance
+/cast [nocombat] Charge
+/startattack
+/cast [combat] Berserker Stance
+/cast [combat] Intercept
+/startattack
