@@ -23,7 +23,15 @@
     <KeyDown w>
   <sendLabel w2>
     <Key up>
-
 <hotkeyUp w>
   <sendLabel w1>
+    <KeyUp w>
+
+<hotkey up>
+  <sendLabel w2>
+    <KeyDown w>
+  <sendLabel w1>
+    <Key up>
+<hotkeyUp up>
+  <sendLabel w2>
     <KeyUp w>
