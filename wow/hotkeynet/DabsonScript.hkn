@@ -13,7 +13,17 @@
 <SendLabel w1, w2>
 <Key %Trigger%>
 
-<KeyList MovementKeys w, a, s, d, up, down, left, right>
-<MovementHotkey MovementKeys; Shift MovementKeys except w>
-<SendLabel w1, w2>
-<Key %Trigger%>
+//<KeyList MovementKeys w, a, s, d, up, down, left, right>
+//<MovementHotkey MovementKeys; Shift MovementKeys except w>
+//<SendLabel w1, w2>
+//<Key %Trigger%>
+
+<hotkey w>
+  <sendLabel w1>
+    <KeyDown w>
+  <sendLabel w2>
+    <Key up>
+
+<hotkeyUp w>
+  <sendLabel w1>
+    <KeyUp w>
