@@ -1,0 +1,5 @@
+#showtooltip
+/dismount
+/cancelform
+/target Shadow
+/cast [@Shadow] Rejuvenation(rank 5)
