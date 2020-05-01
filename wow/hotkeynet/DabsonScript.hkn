@@ -9,7 +9,7 @@
 <Label w2 local SendWinM WoW2>
 
 <KeyList ActionKeys Oem3, space, tab, esc, 1-6, A-Z except w, a, s, d>
-<Hotkey NumLockOn ActionKeys; NumLockOn Shift ActionKeys; NumLockOn LCtrl Space>
+<Hotkey ActionKeys; Shift ActionKeys; LCtrl Space>
 <SendLabel w1, w2>
 <Key %Trigger%>
 
