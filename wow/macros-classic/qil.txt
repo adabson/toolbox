@@ -1,5 +1,24 @@
+targeted rejuv (@oni does nothing) ---------------
 #showtooltip
 /dismount
 /cancelform
-/target Shadow
-/cast [@Shadow] Rejuvenation(rank 5)
+/target Onitz
+/cast Rejuvenation(rank 5)
+
+abolish poison mouseover or self-cast----------------
+#showtooltip Abolish Poison
+/cancelform
+/cast [@mouseover,exists][@qil]  Abolish Poison
+
+NS -----
+#showtooltip
+/dismount
+/cancelform
+/cast Nature's Swiftness
+
+NG -----
+#showtooltip Nature's Grasp
+/dismount
+/cancelform
+/cast Nature's Grasp
+
