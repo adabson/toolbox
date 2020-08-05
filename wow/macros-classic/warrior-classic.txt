@@ -31,7 +31,7 @@ Wber -------------
 /startattack
 
 Ham ---------
-#showtooltip
+#showtooltip Hamstring
 /dismount
 /equipslot 16 Perdition's Blade
 /equipslot 17 Ancient Hakkari Manslayer
