@@ -7,3 +7,26 @@ zoom --------------------------
 /cast [combat] Berserker Stance
 /cast [combat] Intercept
 /startattack
+
+mock --------------------------
+#showtooltip Mocking Blow
+/cast Battle Stance
+/equipslot 16 Perdition's Blade
+/equipslot 17 Ancient Hakkari Manslayer
+/cast Mocking Blow
+/startattack
+
+taunt -------------------------
+#showtooltip Taunt
+/cast Defensive Stance
+/equip Quel'Serrar
+/equip Skullflame Shield
+/cast Taunt
+/startattack
+
+Wber -------------
+#showtooltip
+/cast Berserker Stance
+/equip Bonereaver's Edge
+/startattack
+
