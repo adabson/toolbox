@@ -37,3 +37,4 @@ Ham ---------
 /equipslot 17 Ancient Hakkari Manslayer
 /cast Hamstring
 /startattack
+

@@ -1,0 +1,5 @@
+Iron Grenade ---------------
+#showtooltip Iron Grenade
+/use [@cursor] Iron Grenade
+/stopcasting 
+
