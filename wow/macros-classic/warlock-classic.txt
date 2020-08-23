@@ -1,0 +1,6 @@
+voidy-----------------------
+#showtooltip
+/use [nopet:voidwalker]Summon Voidwalker
+/use [pet:voidwalker,nocombat]Consume Shadows
+/use [pet:voidwalker,combat]Sacrifice
+
