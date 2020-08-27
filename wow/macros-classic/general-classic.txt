@@ -3,3 +3,7 @@ Iron Grenade ---------------
 /use [@cursor] Iron Grenade
 /stopcasting 
 
+AQ Mount -------------------
+#showtooltip
+/use [nooutdoors] Green Qiraji Resonating Crystal
+/use [outdoors] Black War Kodo
