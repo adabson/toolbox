@@ -1,10 +1,10 @@
-import urllib.request, urllib.error, urllib.parse
+import requests, urllib.error, urllib.parse
 
-url = 'http://www.oldbaileyonline.org/browse.jsp?id=t17800628-33&div=t17800628-33'
+url = 'https://www.dabson.co'
 
-response = urllib.request.urlopen(url)
-webContent = response.read()
+response = requests.get(url)
+webContent = response.content
 
-f = open('obo-t17800628-33.html', 'wb')
+f = open('d.html', 'wb')
 f.write(webContent)
 f.close
