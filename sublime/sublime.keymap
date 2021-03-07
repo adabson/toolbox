@@ -2,11 +2,6 @@
   {"keys": ["alt+l"],  "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} },
   {"keys": ["ctrl+shift+r"], "command": "reindent", "args": {"single_line": false}},
   {"keys": ["alt+`"],  "command": "show_panel", "args": {"panel": "output.exec"} },
-  {"keys": ["ctrl+1"], "command": "open_file", "args": {"file": "F:/Dropbox/Andrew/game/bfaNotes.txt"}},
-  {"keys": ["ctrl+2"], "command": "open_file", "args": {"file": "F:/Dropbox/Andrew/tax/2019/NET_2019.txt"}},
-  {"keys": ["ctrl+3"], "command": "open_file", "args": {"file": "F:\\Dropbox\\invest\\crypto\\Im Crazy.txt"}},
-  {"keys": ["ctrl+4"], "command": "open_file", "args": {"file": "F:\\Dropbox\\projects\\wetbox\\NAS.txt"}},
-  {"keys": ["ctrl+5"], "command": "open_file", "args": {"file": "F:\\git\\vue\\archive\\vueNotes.js"}},
-  {"keys": ["ctrl+6"], "command": "open_file", "args": {"file": "F:\\Dropbox\\invest\\!prospectus\\2018\\inv2018.txt"}},
-  {"keys": ["ctrl+7"], "command": "open_file", "args": {"file": "F:\\Dropbox\\projects\\craftsmansJournal\\craftsman.js"}}
+  {"keys": ["ctrl+1"], "command": "open_file", "args": {"file": "C:/Dropbox/invest/shares/2021/2021.03.invest.notes"}},
+  {"keys": ["ctrl+2"], "command": "open_file", "args": {"file": "C:/Dropbox/Andrew/tax/2021/NET_2021.txt"}}
 ]
