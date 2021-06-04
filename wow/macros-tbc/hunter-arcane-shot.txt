@@ -1,0 +1,3 @@
+#showtooltip
+/cast Arcane Shot
+/petattack
