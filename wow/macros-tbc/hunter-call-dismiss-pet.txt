@@ -1,3 +1,4 @@
 #showtooltip
 /cast [nopet] Call Pet
-/cast [pet] Dismiss Pet
+/cast Hunter's Mark
+/petattack
