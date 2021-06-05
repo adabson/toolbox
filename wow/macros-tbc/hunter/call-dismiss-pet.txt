@@ -1,4 +1,0 @@
-#showtooltip
-/cast [nopet] Call Pet
-/cast Hunter's Mark
-/petattack
