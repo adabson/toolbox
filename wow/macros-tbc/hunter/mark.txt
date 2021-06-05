@@ -1,0 +1,6 @@
+#showtooltip
+/dismount
+/cast [nopet] Call Pet
+/cast Hunter's Mark
+/attack
+/petattack

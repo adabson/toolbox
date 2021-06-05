@@ -1,2 +1,0 @@
-#showtooltip
-/castsequence !Aspect of the Cheetah, !Aspect of the Hawk

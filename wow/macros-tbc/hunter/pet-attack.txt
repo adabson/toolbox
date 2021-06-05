@@ -1,0 +1,4 @@
+#showtooltip
+/dismount
+/cast [nopet] Call Pet
+/petattack

@@ -1,4 +1,0 @@
-#showtooltip
-/cast Multi-shot
-/attack
-/petattack
