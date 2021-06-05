@@ -1,3 +1,4 @@
 #showtooltip
+/dismount
 /cast Serpent Sting
 /petattack [nocombat]
