@@ -1,0 +1,5 @@
+#showtooltip
+/dismount
+/cast [nopet] Call Pet
+/petfollow [@pettarget,exists]
+/petattack [@pettarget,noexists]
