@@ -1,0 +1,6 @@
+#showtooltip
+/cast Bestial Wrath
+/cast Blood Fury
+/use 13
+/startattack
+/petattack

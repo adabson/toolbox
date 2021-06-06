@@ -2,6 +2,6 @@
 /dismount
 /cast [nopet] Call Pet
 /cast Hunter's Mark
-/attack
+/startattack
 /petattack
 /petdefensive
