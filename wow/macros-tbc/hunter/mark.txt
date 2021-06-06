@@ -4,3 +4,4 @@
 /cast Hunter's Mark
 /attack
 /petattack
+/petdefensive

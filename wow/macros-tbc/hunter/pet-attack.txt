@@ -2,3 +2,4 @@
 /dismount
 /cast [nopet] Call Pet
 /petattack
+/petdefensive
