@@ -1,0 +1,3 @@
+#showtooltip
+/cast Summon Water Elemental
+/petattack
