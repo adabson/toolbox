@@ -1,0 +1,140 @@
+-------------------------------------------------------------------------------------
+HotkeyNet Log File
+-------------------------------------------------------------------------------------
+
+File opened at 20:47:11 on Tuesday, June 15, 2021
+DNS name: Fieryboi
+OS version: Microsoft  (build 9200)
+
+
+CPU:
+	Archictecture = 0; 
+	Page size = 1000; 
+	Min app address = 10000; 
+	Max app address = 7ffeffff; 
+	Mask = fff; 
+	Qty cores = 12; 
+	Type = 24a; 
+	Alloc granularity = 10000; 
+	Level = 6; 
+	Revision = 9e0a.
+
+
+Memory:
+	Load = 20%; 
+	Total physical = 65481 MB; 
+	Available physical = 52059 MB; 
+	Total page file = 75209 MB; 
+	Avail page file = 57449 MB; 
+	Total virtual = 2047 MB; 
+	Avail virtual = 1976 MB; 
+	Avail extended virtual = 0 MB.
+
+
+Mouse:
+	Mouse installed.
+	Buttons not swapped.
+	Speed: 1
+	Threshold (x,y): 6,10
+
+
+Adapter 0:
+
+	IP Address	192.168.1.8
+	Subnet Mask	255.255.255.0
+	Default Gateway	192.168.1.1
+
+	Adapter Name	{3D07D852-1FB2-48CE-A062-2BF03440BC84}
+	Description	Intel(R) Ethernet Connection (2) I219-V
+	Physical Address	E0-D5-5E-AB-FA-1B
+
+	DHCP Enabled	Yes
+	DHCP Server	192.168.1.1
+	Lease Obtained	Tue Jun 15 19:32:05 2021
+
+	Have WINS	No
+
+Adapter 1:
+
+	IP Address	0.0.0.0
+	Subnet Mask	0.0.0.0
+	Default Gateway	0.0.0.0
+
+	Adapter Name	{7A74EA1D-3472-45A3-8664-E8DD4D6EC77B}
+	Description	Bluetooth Device (Personal Area Network)
+	Physical Address	94-B8-6D-D3-5A-2B
+
+	DHCP Enabled	Yes
+	DHCP Server	
+	Lease Obtained	Thu Jan 01 11:00:00 1970
+
+	Have WINS	No
+
+Adapter 2:
+
+	IP Address	192.168.56.1
+	Subnet Mask	255.255.255.0
+	Default Gateway	0.0.0.0
+
+	Adapter Name	{AAFBE2F8-EE7F-42D6-AB1D-5356096DE61E}
+	Description	VirtualBox Host-Only Ethernet Adapter
+	Physical Address	0A-00-27-00-00-11
+
+	DHCP Enabled	No
+
+	Have WINS	No
+
+Adapter 3:
+
+	IP Address	0.0.0.0
+	Subnet Mask	0.0.0.0
+	Default Gateway	0.0.0.0
+
+	Adapter Name	{80C4A7EF-D038-4B83-B16B-D06440E94BC4}
+	Description	Intel(R) Dual Band Wireless-AC 3165
+	Physical Address	94-B8-6D-D3-5A-27
+
+	DHCP Enabled	Yes
+	DHCP Server	
+	Lease Obtained	Thu Jan 01 11:00:00 1970
+
+	Have WINS	No
+
+Adapter 4:
+
+	IP Address	0.0.0.0
+	Subnet Mask	0.0.0.0
+	Default Gateway	0.0.0.0
+
+	Adapter Name	{11D67163-E9B5-4A0B-90AE-2CFAD1F3343E}
+	Description	Microsoft Wi-Fi Direct Virtual Adapter
+	Physical Address	94-B8-6D-D3-5A-28
+
+	DHCP Enabled	Yes
+	DHCP Server	
+	Lease Obtained	Thu Jan 01 11:00:00 1970
+
+	Have WINS	No
+
+Adapter 5:
+
+	IP Address	0.0.0.0
+	Subnet Mask	0.0.0.0
+	Default Gateway	0.0.0.0
+
+	Adapter Name	{5A541AF4-BB2D-45A1-85FC-0BE4D40D49CE}
+	Description	Microsoft Wi-Fi Direct Virtual Adapter #2
+	Physical Address	96-B8-6D-D3-5A-27
+
+	DHCP Enabled	Yes
+	DHCP Server	
+	Lease Obtained	Thu Jan 01 11:00:00 1970
+
+	Have WINS	No
+
+HotkeyNet 0.1.45 build 210
+Start as server.
+This IP: 192.168.56.1
+
+C:\d\sou\cpp\macro\cAuth.cpp 423: IP seen by authorization server: 220.233.71.219
+
