@@ -1,4 +1,4 @@
 #showtooltip
 /stopcasting
 /cast Ice Block
-/cancelaura
+/cancelaura ice block
