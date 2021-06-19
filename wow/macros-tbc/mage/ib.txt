@@ -1,0 +1,4 @@
+#showtooltip
+/stopcasting
+/cast Ice Block
+/cancelaura
