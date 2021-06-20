@@ -1,3 +1,4 @@
-#showtooltip
-/cast Summon Water Elemental
+#showtooltip Summon Water Elemental
+/cast [nopet][target=pet, dead] Summon Water Elemental; Freeze
 /petattack
+/dismount
