@@ -1,0 +1,4 @@
+#showtooltip Dash
+/cancelform [noform:3]
+/cast [noform:3] Cat Form
+/cast Dash
