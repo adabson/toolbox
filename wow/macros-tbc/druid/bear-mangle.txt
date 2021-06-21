@@ -1,0 +1,3 @@
+#showtooltip
+/cast Mangle (Bear)
+/startattack

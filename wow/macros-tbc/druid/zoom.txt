@@ -1,0 +1,3 @@
+#showtooltip
+/cast Feral Charge
+/cast Faerie Fire (Feral)
