@@ -1,0 +1,2 @@
+/target aa
+/script SetRaidTarget("target", 8);

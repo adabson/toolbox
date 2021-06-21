@@ -1,4 +1,4 @@
 #showtooltip
+/dismount
 /cast Arcane Shot
 /startattack
-/petattack

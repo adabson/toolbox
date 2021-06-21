@@ -1,4 +1,3 @@
 #showtooltip
 /cast Multi-shot
 /startattack
-/petattack

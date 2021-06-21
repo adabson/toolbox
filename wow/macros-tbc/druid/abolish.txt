@@ -1,0 +1,4 @@
+#showtooltip
+/cancelform
+/cast [@mouseover,exists] Abolish Poison
+/cast Abolish Poison

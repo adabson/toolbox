@@ -2,7 +2,7 @@
 HotkeyNet Log File
 -------------------------------------------------------------------------------------
 
-File opened at 10:43:23 on Sunday, June 20, 2021
+File opened at 08:45:31 on Tuesday, June 22, 2021
 DNS name: Fieryboi
 OS version: Microsoft  (build 9200)
 
@@ -21,11 +21,11 @@ CPU:
 
 
 Memory:
-	Load = 15%; 
+	Load = 42%; 
 	Total physical = 65481 MB; 
-	Available physical = 55219 MB; 
+	Available physical = 37720 MB; 
 	Total page file = 75209 MB; 
-	Avail page file = 60903 MB; 
+	Avail page file = 43110 MB; 
 	Total virtual = 2047 MB; 
 	Avail virtual = 1976 MB; 
 	Avail extended virtual = 0 MB.
@@ -50,7 +50,7 @@ Adapter 0:
 
 	DHCP Enabled	Yes
 	DHCP Server	192.168.1.1
-	Lease Obtained	Sun Jun 20 10:32:43 2021
+	Lease Obtained	Tue Jun 22 08:02:05 2021
 
 	Have WINS	No
 

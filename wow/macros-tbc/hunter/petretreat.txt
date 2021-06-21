@@ -1,5 +1,5 @@
-#showtooltip
-/dismount
-/cast [nopet] Call Pet
-/petattack
-/petdefensive
+#showtooltip Feed Pet
+/cast [nopet][@pet,dead]Revive Pet
+/cast [nocombat] Feed pet
+/petfollow [pet,combat]
+/petpassive

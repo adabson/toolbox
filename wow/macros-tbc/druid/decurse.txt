@@ -1,0 +1,4 @@
+#showtooltip
+/cancelform
+/cast [@mouseover,exists] Remove Curse
+/cast Remove Curse

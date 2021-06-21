@@ -1,0 +1,4 @@
+#showtooltip Dire Bear Form
+/dismount
+/cancelform
+/cast Dire Bear Form

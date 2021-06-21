@@ -1,0 +1,2 @@
+#showtooltip
+/cast [nopet][@pet,dead]Revive Pet;Mend Pet
