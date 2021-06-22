@@ -1,0 +1,6 @@
+#showtooltip Steady Shot
+/script speed= UnitRangedSpeed("player") + 0.01 
+/script UIErrorsFrame:Hide() 
+/cast [exists,target=pettarget] Kill Command 
+/castsequence reset=speed Steady Shot, !Auto Shot
+/petattack

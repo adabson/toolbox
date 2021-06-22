@@ -2,5 +2,6 @@
 /cast Bestial Wrath
 /cast Blood Fury
 /use 13
+/use 14
 /startattack
 /petattack
