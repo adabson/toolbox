@@ -1,0 +1,1 @@
+#showtooltip Steady Shot /cast !Auto Shot  /cast [@pettarget,harm,nodead] Kill Command  /cast Steady Shot /cast [@pettarget,harm,nodead] Kill Command
