@@ -1,5 +1,0 @@
-#showtooltip Prowl
-/dismount
-/cancelform [noform:3]
-/cast [noform:3] !Cat Form
-/cast !Prowl
