@@ -1,0 +1,2 @@
+#showtooltip Misdirection
+/use[@mouseover,help,nodead][@focus,help,nodead]Misdirection
