@@ -1,2 +1,0 @@
-/target Pearl
-/run SetRaidTargetIcon("target", 8)
