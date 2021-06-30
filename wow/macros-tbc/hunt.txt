@@ -1,2 +1,2 @@
-/target aa
-/script SetRaidTarget("target", 8);
+/target Pearl
+/run SetRaidTargetIcon("target", 8)
