@@ -24,6 +24,14 @@ taunt -------------------------
 /cast Taunt
 /startattack
 
+taunt (perditions) --------
+#showtooltip Taunt
+/cast Defensive Stance
+/equipslot 16 Perdition's Blade
+/equip Skullflame Shield
+/cast Taunt
+/startattack
+
 Wber -------------
 #showtooltip
 /cast Berserker Stance
@@ -37,4 +45,11 @@ Ham ---------
 /equipslot 17 Ancient Hakkari Manslayer
 /cast Hamstring
 /startattack
+
+Shoot ----------
+#showtooltip
+/cast Shoot Bow
+/cast Shoot Crossbow
+/cast Shoot Gun
+/cast Throw
 

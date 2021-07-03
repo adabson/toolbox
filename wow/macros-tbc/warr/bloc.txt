@@ -1,0 +1,4 @@
+#showtooltip Shield Block
+/cast Defensive Stance
+/cast Shield Block
+/startattack

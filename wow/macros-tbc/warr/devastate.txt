@@ -1,0 +1,3 @@
+#showtooltip Devastate
+/cast Defensive Stance
+/cast Devastate
