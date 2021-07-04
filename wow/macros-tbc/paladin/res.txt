@@ -1,2 +1,2 @@
 #showtooltip
-/cast Redempation
+/cast Redemption
