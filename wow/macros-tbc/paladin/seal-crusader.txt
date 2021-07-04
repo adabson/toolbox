@@ -1,0 +1,4 @@
+#showtooltip Seal of the Crusader
+/cast Judgement
+/cast Seal of the Crusader
+/startattack
