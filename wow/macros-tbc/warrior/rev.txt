@@ -1,0 +1,6 @@
+#showtooltip Revenge
+/cast Defensive Stance
+/equipslot 16 Quel'Serrar
+/equipslot 17 Perdition's Blad
+/startattack
+/cast Revenge
