@@ -8,15 +8,13 @@
 <Label w1 local SendWinM WoW1>
 <Label w2 local SendWinM WoW2>
 
-<KeyList ActionKeys Oem3, space, tab, esc, 1-6, A-Z except w, a, s, d>
-<Hotkey ActionKeys; Shift ActionKeys; LCtrl Space>
+<KeyList ActionKeys Oem3, tab, esc, 1-6, A-Z except w, a, s, d>
+<Hotkey ActionKeys; Shift ActionKeys; LCtrl space>
 <SendLabel w1, w2>
 <Key %Trigger%>
 
-
 <KeyList MovementKeys w, a, s, d, up, down, left, right>
-<MovementHotkey Shift MovementKeys except w>
-// alternatively, if you wanna unbind movment on one.. <MovementHotkey MovementKeys; Shift MovementKeys except w>
+<MovementHotkey Shift MovementKeys except w; space; shift space>
 <SendLabel w1, w2>
 <Key %Trigger%>
 

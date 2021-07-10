@@ -1,0 +1,2 @@
+
+// alternatively, if you wanna unbind movment on one.. <MovementHotkey MovementKeys; Shift MovementKeys except w>
