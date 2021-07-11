@@ -1,0 +1,4 @@
+#showtooltip
+/dismount
+/cancelform
+/cast [swimming] Aquatic Form; [combat] Travel Form; [flyable] Flight form; [noswimming] Travel Form
