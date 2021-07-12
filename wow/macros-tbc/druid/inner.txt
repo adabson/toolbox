@@ -1,3 +1,4 @@
 #showtooltip Innervate
 /cancelform
 /cast [@mouseover,exists] Innervate
+/cast Innervate
