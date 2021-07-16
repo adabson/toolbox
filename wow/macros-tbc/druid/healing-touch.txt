@@ -1,0 +1,4 @@
+#showtooltip
+/cancelform
+/cast [@mouseover,exists] Healing Touch
+/cast Healing Touch
