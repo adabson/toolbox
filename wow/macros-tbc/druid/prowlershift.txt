@@ -1,5 +1,5 @@
 #showtooltip Prowl
 /dismount
-/cancelform [nocombat,noform:3][combat,noform:1]
+/cancelform [nocombat,noform:3]
 /cast [nocombat,noform:3][combat,noform:1] !cat form
 /cast !Prowl
