@@ -1,0 +1,4 @@
+/run if GetSpellCooldown(768)+GetItemCooldown(13446)>0 or UnitPower("player",0)<GetSpellPowerCost(768)[1].cost then SetCVar("autoUnshift",0) end;
+/use Ironshield Potion
+/cast [noform:1]!Dire Bear Form
+/run SetCVar("autoUnshift",1)
