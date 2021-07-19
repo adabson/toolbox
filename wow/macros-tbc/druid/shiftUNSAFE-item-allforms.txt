@@ -1,4 +1,3 @@
-#showtooltip Master Healthstone
 /changeactionbar [form:1]2;[form:3]3;[form:4]4;
 /use [form:1]Dire Bear Form;[form:3]Cat Form;[form:4]Travel Form
 /use Master Healthstone
