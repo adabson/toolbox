@@ -1,4 +1,0 @@
-#showtooltip
-/dismount
-/cancelform
-/cast Cat Form
