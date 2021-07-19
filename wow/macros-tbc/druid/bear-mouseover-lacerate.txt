@@ -1,0 +1,3 @@
+#showtooltip Lacerate
+#show Lacerate
+/cast [target=mouseover,harm,nodead] Lacerate; Lacerate

@@ -1,0 +1,5 @@
+#showtooltip Mangle (Bear)
+/startattack
+/cast Mangle (Bear)
+/cast Lacerate
+/cast Maul
