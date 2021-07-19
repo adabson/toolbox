@@ -1,4 +1,6 @@
-/run if GetSpellCooldown(768)+GetItemCooldown(13446)>0 or UnitPower("player",0)<GetSpellPowerCost(768)[1].cost then SetCVar("autoUnshift",0) end;
+#showtooltip Master Healthstone
+/changeactionbar [form:1]2;[form:3]3;[form:4]4;
+/use [form:1]Dire Bear Form;[form:3]Cat Form;[form:4]Travel Form
 /use Master Healthstone
-/cast [noform:1]!Dire Bear Form
-/run SetCVar("autoUnshift",1)
+/use [bar:2]Dire Bear Form;[bar:3]Cat Form;[bar:4]Travel Form
+/changeactionbar 1
