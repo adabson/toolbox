@@ -1,3 +1,5 @@
 #showtooltip
-/cast Icy Veins
+/cast !Icy Veins
+/cast Combustion
 /use 13
+/use 14
