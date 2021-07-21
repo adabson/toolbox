@@ -1,3 +1,4 @@
 #showtooltip
 /dismount
 /cast !cat form
+/equip Wolfshead Helm
