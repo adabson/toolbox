@@ -1,0 +1,4 @@
+#showtooltip
+/cast Tiger's Fury
+/use [nostealth] Bloodlust Brooch
+/use [nostealth] Abacus of Violent Odds
