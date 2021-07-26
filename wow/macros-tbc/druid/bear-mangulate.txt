@@ -2,4 +2,4 @@
 /startattack
 /cast Mangle (Bear)
 /cast Lacerate
-/cast Maul
+/cast !Maul
