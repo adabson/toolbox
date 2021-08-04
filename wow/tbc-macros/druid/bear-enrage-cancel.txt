@@ -1,0 +1,4 @@
+#showtooltip Enrage
+/cast [noform:1] Dire Bear Form(Shapeshift)
+/cancelaura [form:1] Enrage
+/cast [form:1] Enrage

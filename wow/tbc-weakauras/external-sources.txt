@@ -1,2 +1,3 @@
 nots-druid:       https://wago.io/SnVK9UeTH
 luxthos-hunter:   https://wago.io/1NxtmsD1Z
+follow-boostie:   https://wago.io/1HyNGVu6J
