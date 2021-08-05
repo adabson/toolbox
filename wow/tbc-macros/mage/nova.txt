@@ -1,0 +1,3 @@
+#showtooltip Frost Nova
+/cancelaura ice block
+/cast Frost Nova
