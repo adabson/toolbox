@@ -1,2 +1,0 @@
-#showtooltip
-/castsequence reset=8 Ice barrier, Mana shield, Mana shield, Mana shield, Mana shield, Mana shield, Mana shield
