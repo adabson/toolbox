@@ -1,3 +1,0 @@
-#showtooltip Conjure Mana Emerald
-/use Mana Emerald
-/cast Conjure Mana Emerald
