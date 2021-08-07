@@ -1,2 +1,3 @@
 #showtooltip
-/use [@mouseover,help,nodead][help,nodead][@player]  Blessing of Protection
+/cast [@mouseover,help,nodead][help,nodead][@player]  Blessing of Protection
+/cast Blessing of Protection
