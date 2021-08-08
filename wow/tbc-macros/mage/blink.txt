@@ -1,0 +1,4 @@
+#showtooltip
+#showtooltip blink
+/cancelaura ice block
+/cast blink
