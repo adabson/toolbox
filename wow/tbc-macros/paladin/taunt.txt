@@ -1,0 +1,2 @@
+#showtooltip
+/cast [help] righteous defense; [target=targettarget, help] righteous defense
