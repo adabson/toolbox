@@ -1,0 +1,3 @@
+#showtooltip Shoot
+/cast [equipped:Thrown] Throw: Shoot
+/startattack

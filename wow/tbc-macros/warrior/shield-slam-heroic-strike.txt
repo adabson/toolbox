@@ -1,0 +1,4 @@
+#showtooltip
+/cast Shield Slam
+/cast Heroic Strike
+/startattack

@@ -1,4 +1,5 @@
 #showtooltip Shield Block
+/equipslot 17 Platinum Shield of the Valorous
 /cast Defensive Stance
 /cast Shield Block
 /startattack

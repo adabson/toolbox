@@ -1,0 +1,3 @@
+#showtooltip Scare Beast
+/cast [@target, harm] Scare Beast
+/focus [@target, noharm] target

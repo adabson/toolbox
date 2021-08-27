@@ -1,0 +1,3 @@
+#showtooltip Intervene
+/cast Defensive Stance
+/cast Intervene

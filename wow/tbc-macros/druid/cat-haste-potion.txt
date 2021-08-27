@@ -1,2 +1,2 @@
-#showtooltip Haste Potion
-/script local gcd=GetSpellCooldown("Cat Form"); if gcd==0 then CancelPlayerBuff("Cat Form") end; /stopmacro [stance:2] /use Haste Potion /cast Cat Form
+/use Haste Potion
+/cast !Cat Form
