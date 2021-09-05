@@ -1,0 +1,4 @@
+#showtooltip 
+/cast Divine favor
+/cast [@mouseover,help,nodead][help,nodead][@player] Holy Light 
+/cast Holy Light

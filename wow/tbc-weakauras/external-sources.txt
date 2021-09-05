@@ -1,5 +1,6 @@
 follow-boostie:   https://wago.io/1HyNGVu6J
 
 nots-druid:       https://wago.io/SnVK9UeTH
+nots-warrior:     https://wago.io/WO-mym0Xm
 luxthos-hunter:   https://wago.io/1NxtmsD1Z
 faelor-paladin:   https://wago.io/EwsoAhIRl
