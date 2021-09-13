@@ -2,7 +2,7 @@
 HotkeyNet Log File
 -------------------------------------------------------------------------------------
 
-File opened at 09:21:45 on Sunday, July 18, 2021
+File opened at 07:42:01 on Wednesday, September 8, 2021
 DNS name: Fieryboi
 OS version: Microsoft  (build 9200)
 
@@ -21,11 +21,11 @@ CPU:
 
 
 Memory:
-	Load = 17%; 
+	Load = 43%; 
 	Total physical = 65481 MB; 
-	Available physical = 53793 MB; 
+	Available physical = 36997 MB; 
 	Total page file = 75209 MB; 
-	Avail page file = 58476 MB; 
+	Avail page file = 41885 MB; 
 	Total virtual = 2047 MB; 
 	Avail virtual = 1976 MB; 
 	Avail extended virtual = 0 MB.
@@ -40,7 +40,7 @@ Mouse:
 
 Adapter 0:
 
-	IP Address	192.168.1.8
+	IP Address	192.168.1.11
 	Subnet Mask	255.255.255.0
 	Default Gateway	192.168.1.1
 
@@ -50,7 +50,7 @@ Adapter 0:
 
 	DHCP Enabled	Yes
 	DHCP Server	192.168.1.1
-	Lease Obtained	Sun Jul 18 08:59:26 2021
+	Lease Obtained	Wed Sep 08 06:51:27 2021
 
 	Have WINS	No
 
@@ -136,5 +136,5 @@ HotkeyNet 0.1.45 build 210
 Start as server.
 This IP: 192.168.56.1
 
-C:\d\sou\cpp\macro\cAuth.cpp 423: IP seen by authorization server: 220.233.71.219
-
+C:\d\sou\cpp\macro\wininet.cpp 88: InternetOpenUrl(); system error 12007: 
+C:\d\sou\cpp\macro\wininet.cpp 91: URL = http://hotkeynet.net/auth/auth.php?NHKapAtaXRVJsVI22U3DYh2BXfJa/+10oPTua6LiFnCT4mE3L+11mHMpgE8BsTu+WVp3gwk+rOQHhfyuNq03XpSpCpnsSRkXdKEHZwDjVVQelfXB6j2zhREGg6DfbcukMaiHEa08j9XKZBV1LFpTJvaWIDzXzXlDOpXsgZvsYV+ERL8QDsROCgAXW/zqn5UzQOnI30eMBXR8hrNRXSgtvNZ2U1m6+G7N+eh0hR2CJ2MKGpxcTZXLlfO7rxQuaxbHJ/HnamxC8D3zuadl/+iZJLghI6Jk7/yrUs/PsotpWZMBtaEgQZTCNweHlGWdWQWBi2xD06RDWjdqAAY2gsbKL140VVXK+g/yRgZzllHOtCrHTRXDZz+9Mw4G47NTuGlKWhHEWZe1FSIZlG1glJstlTmyxUIr2wmcrz2ij7j59iq4OtxRp3XHxsLz79+dqsIQY25ucJCqQ4HQi4pE2FBSo9VhdjNHMwNsktDRRP8jTY3P0CjN9TaXyjJCNuv6V198ZZQeGUCJ441EH9dW

@@ -1,0 +1,3 @@
+#showtooltip
+/cast Divine Illumination
+/use Lower City Prayerbook

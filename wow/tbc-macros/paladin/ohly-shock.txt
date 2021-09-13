@@ -1,0 +1,3 @@
+#showtooltip
+/cast [@mouseover,help,nodead][nodead][@player] Holy Shock 
+/cast Holy Shock
