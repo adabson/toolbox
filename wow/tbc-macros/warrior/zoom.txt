@@ -1,9 +1,9 @@
 #showtooltip Charge
 /dismount
+/cast [help] Defensive Stance
+/cast [help] Intervene
 /cast [harm,nocombat] Battle Stance
 /cast [harm,nocombat] Charge
 /cast [harm,combat] Berserker Stance
 /cast [harm,combat] Intercept
-/cast [help] Defensive Stance
-/cast [help] Intervene
 /startattack
