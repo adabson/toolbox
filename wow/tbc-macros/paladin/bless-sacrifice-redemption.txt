@@ -1,0 +1,3 @@
+#showtooltip
+/cast [nodead] Blessing of Sacrifice
+/cast [dead] Redemption
