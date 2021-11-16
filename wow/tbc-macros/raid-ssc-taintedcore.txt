@@ -1,0 +1,4 @@
+/use tainted core
+/y  <-------TAINTED CORE TO %T
+/ra  <------ TAINTED CORE TO %T
+/script SendChatMessage("! YOU HAVE THE CORE !", "WHISPER", nil, UnitName("target"));
