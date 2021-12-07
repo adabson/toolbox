@@ -1,5 +1,6 @@
 #showtooltip Prowl
-/dismount
-/cancelform [nocombat,noform:3]
-/cast [nocombat,noform:3][combat,noform:1] !cat form
+/dismount [noform:3]
+/cancelform [noform:3,nocombat]
+/cast [noform:3,nocombat][noform:1,combat] !cat form
+/cast [form:1] Lacerate
 /cast !Prowl

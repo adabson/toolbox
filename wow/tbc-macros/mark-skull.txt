@@ -1,1 +1,3 @@
-/script SetRaidTarget("target", 8);
+#showtooltip Attack
+/run SetRaidTargetIcon("target", 8)
+/startattack
