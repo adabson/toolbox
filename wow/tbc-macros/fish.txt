@@ -1,0 +1,4 @@
+#showtooltip Fishing
+/equip [noequipped:Arcanite Fishing Pole] Arcanite Fishing Pole
+/dismount
+/cast Fishing
