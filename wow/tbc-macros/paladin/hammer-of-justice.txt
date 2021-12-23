@@ -1,0 +1,3 @@
+#showtooltip
+/cast [nodead] Hammer of Justice
+/cast [dead] Redemption
