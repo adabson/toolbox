@@ -1,0 +1,4 @@
+#showtooltip
+/cast [stance:1] Mangle (Bear)
+/cast [stance:3] Mangle (Cat)
+/startattack
