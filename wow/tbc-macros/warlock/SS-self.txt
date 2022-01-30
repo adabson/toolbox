@@ -1,0 +1,3 @@
+#showtooltip Master Soulstone
+/use [@player] Master Soulstone
+/cast Create Soulstone

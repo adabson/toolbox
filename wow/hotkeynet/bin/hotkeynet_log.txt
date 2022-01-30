@@ -2,7 +2,7 @@
 HotkeyNet Log File
 -------------------------------------------------------------------------------------
 
-File opened at 17:14:24 on Thursday, December 23, 2021
+File opened at 20:16:21 on Saturday, January 29, 2022
 DNS name: Fieryboi
 OS version: Microsoft  (build 9200)
 
@@ -21,11 +21,11 @@ CPU:
 
 
 Memory:
-	Load = 18%; 
+	Load = 22%; 
 	Total physical = 65481 MB; 
-	Available physical = 53056 MB; 
+	Available physical = 51048 MB; 
 	Total page file = 75209 MB; 
-	Avail page file = 57806 MB; 
+	Avail page file = 53562 MB; 
 	Total virtual = 2047 MB; 
 	Avail virtual = 1976 MB; 
 	Avail extended virtual = 0 MB.
@@ -34,13 +34,13 @@ Memory:
 Mouse:
 	Mouse installed.
 	Buttons not swapped.
-	Speed: 1
-	Threshold (x,y): 6,10
+	Speed: 0
+	Threshold (x,y): 0,0
 
 
 Adapter 0:
 
-	IP Address	192.168.1.11
+	IP Address	192.168.1.37
 	Subnet Mask	255.255.255.0
 	Default Gateway	192.168.1.1
 
@@ -50,7 +50,7 @@ Adapter 0:
 
 	DHCP Enabled	Yes
 	DHCP Server	192.168.1.1
-	Lease Obtained	Thu Dec 23 09:47:56 2021
+	Lease Obtained	Sat Jan 29 19:16:43 2022
 
 	Have WINS	No
 
@@ -78,7 +78,7 @@ Adapter 2:
 
 	Adapter Name	{AAFBE2F8-EE7F-42D6-AB1D-5356096DE61E}
 	Description	VirtualBox Host-Only Ethernet Adapter
-	Physical Address	0A-00-27-00-00-11
+	Physical Address	0A-00-27-00-00-10
 
 	DHCP Enabled	No
 
