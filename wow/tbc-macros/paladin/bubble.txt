@@ -1,0 +1,4 @@
+#showtooltip 
+/stopcasting
+/cast Divine Shield
+/cancelaura Divine Shield
