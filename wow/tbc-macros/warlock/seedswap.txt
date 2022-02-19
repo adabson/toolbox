@@ -1,0 +1,3 @@
+#showtooltip
+/cast Seed of Corruption
+/targetenemy
