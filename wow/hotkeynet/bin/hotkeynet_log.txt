@@ -2,7 +2,7 @@
 HotkeyNet Log File
 -------------------------------------------------------------------------------------
 
-File opened at 09:00:05 on Wednesday, February 23, 2022
+File opened at 08:33:04 on Monday, February 28, 2022
 DNS name: Fieryboi
 OS version: Microsoft  (build 9200)
 
@@ -21,11 +21,11 @@ CPU:
 
 
 Memory:
-	Load = 43%; 
+	Load = 30%; 
 	Total physical = 65481 MB; 
-	Available physical = 36921 MB; 
+	Available physical = 45575 MB; 
 	Total page file = 75209 MB; 
-	Avail page file = 40520 MB; 
+	Avail page file = 52625 MB; 
 	Total virtual = 2047 MB; 
 	Avail virtual = 1976 MB; 
 	Avail extended virtual = 0 MB.
@@ -50,7 +50,7 @@ Adapter 0:
 
 	DHCP Enabled	Yes
 	DHCP Server	192.168.1.1
-	Lease Obtained	Wed Feb 23 08:10:36 2022
+	Lease Obtained	Mon Feb 28 08:30:42 2022
 
 	Have WINS	No
 
@@ -136,9 +136,6 @@ HotkeyNet 0.1.45 build 210
 Start as server.
 This IP: 192.168.56.1
 
-C:\d\sou\cpp\macro\foreground_lock.cpp 64: Set SystemParametersInfo; system error 5: Access is denied.
-
-C:\d\sou\cpp\macro\foreground_lock.cpp 85: Foreground Lock Timeout should be zero, but it's not.
 C:\d\sou\cpp\macro\foreground_lock.cpp 64: Set SystemParametersInfo; system error 5: Access is denied.
 
 C:\d\sou\cpp\macro\foreground_lock.cpp 85: Foreground Lock Timeout should be zero, but it's not.
