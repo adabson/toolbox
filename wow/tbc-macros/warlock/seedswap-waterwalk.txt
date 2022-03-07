@@ -1,4 +1,0 @@
-#showtooltip
-/use [nocombat] Conjured Glacier Water
-/cast [combat] Seed of Corruption
-/targetenemy
