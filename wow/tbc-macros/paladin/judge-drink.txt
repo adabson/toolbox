@@ -1,0 +1,3 @@
+#showtooltip
+/use [nocombat] Conjured Glacier Water
+/cast Judgement
