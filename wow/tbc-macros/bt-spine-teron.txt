@@ -1,0 +1,6 @@
+#showtooltip
+/use Tears of the Goddess
+/use Naj'entus Spine
+/click PetActionButton5
+/click PetActionButton4
+/click PetActionButton3
