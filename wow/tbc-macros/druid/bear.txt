@@ -1,5 +1,5 @@
 #showtooltip Dire Bear Form
 /dismount
+/cast !Dire Bear Form
 /cancelaura Blessing of Salvation
 /cancelaura Greater Blessing of Salvation
-/cast !Dire Bear Form
