@@ -1,0 +1,4 @@
+#showtooltip
+/dismount
+/startattack
+/cast Consecration
