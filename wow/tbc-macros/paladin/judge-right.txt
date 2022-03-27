@@ -1,0 +1,4 @@
+#showtooltip
+/cast Judgement
+/cast Seal of Righteousness
+/startattack
