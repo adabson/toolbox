@@ -1,0 +1,3 @@
+#showtooltip
+/use [@mouseover,help,nodead][help,nodead][@player] Cleanse
+/run SetRaidTargetIcon("target", 8)
