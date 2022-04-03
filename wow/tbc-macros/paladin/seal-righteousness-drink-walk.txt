@@ -1,0 +1,5 @@
+#showtooltip
+/cast [combat] Judgement
+/cast [combat] Seal of Righteousness
+/use [nocombat] Conjured Glacier Water
+/startattack
