@@ -1,0 +1,39 @@
+<Hotkey F1><SendPC local><ToggleHotkeys>
+<Hotkey F2><SendPC local><LoadScript c:\git\toolbox\wow\hotkeynet\DabsonScript.hkn>
+<Hotkey F3>
+    <SendPC local>
+        <RenameWin "World of Warcraft" WoW1>
+        <RenameWin "World of Warcraft" WoW2>
+
+<Label w1 local SendWinM WoW1>
+<Label w2 local SendWinM WoW2>
+
+<KeyList HealKeys f, g>
+<Hotkey HealKeys; Shift HealKeys;>
+<SendLabel w1, w2>
+<Key %Trigger%>
+ -->
+
+<KeyList MovementKeys w, a, s, d, up, down, left, right>
+<MovementHotkey Shift MovementKeys except w>
+// alternatively, if you wanna unbind movment on one.. <MovementHotkey MovementKeys; Shift MovementKeys except w>
+<SendLabel w1, w2>
+<Key %Trigger%>
+
+<hotkey w>
+  <sendLabel w1>
+    <KeyDown w>
+  <sendLabel w2>
+    <Key up>
+<hotkeyUp w>
+  <sendLabel w1>
+    <KeyUp w>
+
+<hotkey up>
+  <sendLabel w2>
+    <KeyDown w>
+  <sendLabel w1>
+    <Key up>
+<hotkeyUp up>
+  <sendLabel w2>
+    <KeyUp w>
