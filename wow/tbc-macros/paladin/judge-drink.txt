@@ -1,4 +1,4 @@
-#showtooltip
+#showtooltip Judgement
 /cast [combat] Judgement
 /cast [combat] Seal of Righteousness
 /startattack [combat]
