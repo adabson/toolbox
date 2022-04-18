@@ -1,0 +1,3 @@
+/use Tiny Voodoo Mask
+/equipslot 14 Tiny Voodoo Mask
+/equipslot 14 Bladefist's Breadth
