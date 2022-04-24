@@ -1,0 +1,3 @@
+#showtooltip Kill Command
+/cast [combat] Kill Command
+/use [nocombat] Conjured Glacier Water
