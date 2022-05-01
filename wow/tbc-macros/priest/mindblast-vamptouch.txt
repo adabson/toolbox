@@ -1,3 +1,0 @@
-#showtooltip
-/cast Mind Blast
-/cast Vampiric Touch
