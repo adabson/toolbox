@@ -1,0 +1,2 @@
+#showtooltip
+/cast [form:5] Moonfire; [noform:5] Rejuvenation
