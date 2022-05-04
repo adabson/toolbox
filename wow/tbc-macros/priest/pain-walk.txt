@@ -1,0 +1,3 @@
+#showtooltip
+/cast Shadow Word: Pain
+/use [nocombat] Conjured Glacier Water
