@@ -1,0 +1,4 @@
+#showtooltip
+/cast Challenging Roar
+/rw AoE Taunt on Quill
+/raid AoE Taunt on Quill
