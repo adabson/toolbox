@@ -1,3 +1,2 @@
 #showtooltip
-/cast [flyable] Swift Red Windrider
-/cast [noflyable] Horn of the Swift Gray Wolf
+/cast [flyable]Swift Purple Windrider;[noflyable]Swift Olive Raptor
