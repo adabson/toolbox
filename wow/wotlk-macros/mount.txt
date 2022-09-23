@@ -1,0 +1,2 @@
+#showtooltip
+/cast [flyable] Swift Purple Wind Rider; Swift Olive Raptor
