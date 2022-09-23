@@ -1,0 +1,4 @@
+#showtooltip
+/cast [nopet] Raise Dead
+/cast [pet] Leap
+/petattack
