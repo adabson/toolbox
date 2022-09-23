@@ -1,2 +1,3 @@
 #showtooltip
-/cast gnaw
+/cast [nopet] Raise Dead
+/cast [pet] gnaw
