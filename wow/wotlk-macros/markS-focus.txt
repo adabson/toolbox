@@ -1,0 +1,3 @@
+/startattack
+/focus
+/run SetRaidTargetIcon("target", 8)

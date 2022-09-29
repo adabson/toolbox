@@ -1,0 +1,2 @@
+/run SetRaidTargetIcon("target", 7)
+/clearfocus
