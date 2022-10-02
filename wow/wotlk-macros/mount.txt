@@ -1,2 +1,2 @@
-#showtooltip
-/cast [flyable] Swift Purple Wind Rider; Swift Olive Raptor
+/cast [flyable] Swift Purple Wind Rider
+/cast Swift Olive Raptor
