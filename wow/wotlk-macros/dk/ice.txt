@@ -1,3 +1,5 @@
 #showtooltip
 /cast Icy Touch
+/startattack
 /petattack
+/cast Claw

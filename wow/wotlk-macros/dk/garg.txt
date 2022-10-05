@@ -1,0 +1,9 @@
+#showtooltip Summon Gargoyle
+/use [combat] 13
+/use [combat] 14
+/use [combat] Potion of Speed
+/use [combat] 10
+/use [combat] 16
+/startattack
+/petattack
+/cast Summon Gargoyle

@@ -1,4 +1,5 @@
 #showtooltip
 /cast [nopet] Raise Dead
 /cast [pet] Leap
+/cast [pet] gnaw
 /petattack

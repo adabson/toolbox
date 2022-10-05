@@ -1,0 +1,5 @@
+#showtooltip Blood Strike
+/cast Heart Strike
+/startattack
+/petattack
+/cast Claw

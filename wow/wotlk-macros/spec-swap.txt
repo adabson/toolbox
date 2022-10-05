@@ -1,0 +1,2 @@
+/run SetActiveTalentGroup(1)
+/run SetActiveTalentGroup(2)

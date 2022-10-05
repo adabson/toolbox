@@ -1,0 +1,4 @@
+#showtooltip Leap
+/cast [@player]Leap
+/petfollow
+/petpassive
