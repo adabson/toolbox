@@ -1,0 +1,5 @@
+#showtooltip
+/cast [@focus] Pestilence
+/startattack
+/petattack
+/cast Claw
