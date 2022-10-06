@@ -1,0 +1,2 @@
+#showtooltip Death Grip
+/cast [@mouseover,harm] Death Grip
