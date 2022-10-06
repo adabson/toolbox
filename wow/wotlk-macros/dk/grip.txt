@@ -1,5 +1,5 @@
 #showtooltip Death Grip
-/cast [@mouseover,harm] Death Grip
+/cast [@mouseover,harm][@target] Death Grip
 /startattack
 /petattack
 /cast Claw

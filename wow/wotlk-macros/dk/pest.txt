@@ -1,5 +1,5 @@
 #showtooltip
-/cast [@focus] Pestilence
+/cast [@focus,harm][@target] Pestilence
 /startattack
 /petattack
 /cast Claw

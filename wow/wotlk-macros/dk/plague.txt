@@ -1,5 +1,5 @@
 #showtooltip
-/cast Plague Strike
+/cast [@focus,harm][@target] Plague Strike
 /startattack
 /petattack
 /cast Claw
