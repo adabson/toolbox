@@ -1,0 +1,5 @@
+#showtooltip
+/cast [@mouseover,harm][@target] Death Coil
+/startattack
+/petattack
+/cast Claw
