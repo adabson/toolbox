@@ -1,4 +1,5 @@
-#showtooltip Blood Strike
+#showtooltip Heart Strike
+/cast Rune Strike
 /cast Heart Strike
 /startattack
 /petattack
