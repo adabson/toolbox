@@ -1,0 +1,6 @@
+#showtooltip 
+/run CloseTradeSkill() 
+/cast Enchanting 
+/run local s for i=1,GetNumTradeSkills() do s=GetTradeSkillSelectionIndex() if s then DoTradeSkill(s) end end 
+/use 0 1 
+/script ReplaceEnchant()
