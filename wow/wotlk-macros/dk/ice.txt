@@ -1,7 +1,7 @@
 #showtooltip
 /cast Icy Touch
-/focus
-/run SetRaidTargetIcon("target", 8)
 /startattack
 /petattack
 /cast Claw
+/focus
+/run SetRaidTargetIcon("target", 8)
