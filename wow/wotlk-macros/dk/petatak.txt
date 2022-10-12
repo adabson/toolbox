@@ -1,0 +1,6 @@
+#showtooltip
+/cast [nopet] Raise Dead
+/cast [pet] gnaw
+/cast [@mouseover,harm][@target] Leap
+/petattack [@mouseover,harm][@target]
+/petdefensive

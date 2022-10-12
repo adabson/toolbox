@@ -1,6 +1,0 @@
-#showtooltip
-/cast [nopet] Raise Dead
-/cast [pet] leap
-/cast [pet] gnaw
-/petattack
-/petdefensive

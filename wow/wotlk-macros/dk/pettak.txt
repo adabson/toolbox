@@ -1,3 +1,0 @@
-#showtooltip
-/cast [nopet] Raise Dead
-/petattack
