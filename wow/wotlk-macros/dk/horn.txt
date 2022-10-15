@@ -1,0 +1,6 @@
+#showtooltip Horn of Winter
+/cancelaura Horn of Winter
+/cast Horn of Winter
+/startattack
+/petattack
+/cast Claw

@@ -1,0 +1,5 @@
+#showtooltip
+/castsequence reset=combat/10 Ghoul Frenzy, Summon Gargoyle, Blood Presence
+/use [combat] Bladefist's Breadth
+/startattack
+/petattack
