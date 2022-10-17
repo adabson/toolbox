@@ -1,4 +1,5 @@
-#showtooltip Leap
+#showtooltip
+/cast [nopet] Raise Dead
 /cast [@player]Leap
 /petfollow
 /petpassive
