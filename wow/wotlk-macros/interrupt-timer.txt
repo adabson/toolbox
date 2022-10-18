@@ -1,0 +1,5 @@
+#showtooltip
+/script Stopwatch_Clear()
+/stopcasting
+/cast Mind Freeze
+/script Stopwatch_Play()
