@@ -1,7 +1,0 @@
-#showtooltip
-/target [@mouseover]
-/cast Death Grip
-/cast Icy Touch
-/startattack
-/petattack
-/cast Claw

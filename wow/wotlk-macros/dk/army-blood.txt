@@ -1,0 +1,3 @@
+#showtooltip
+/cast Army of the Dead
+/cast Blood Presence
