@@ -1,4 +1,3 @@
 #showtooltip
-/cast [indoors] Blood Presence
-/cast [indoors] Unholy Presence
-/cast [nocombat, outdoors] Path of Frost
+/cast [mounted] Path of Frost
+/cast Blood Presence
