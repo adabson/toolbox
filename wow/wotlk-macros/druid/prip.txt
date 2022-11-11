@@ -1,0 +1,6 @@
+#showtooltip [noform:3] Prowl; Rip
+/dismount [noform:3]
+/cancelform [noform:3,nocombat]
+/cast [noform:3] cat form
+/cast [form:3,nocombat] Prowl
+/cast [form:3,combat] Rip
