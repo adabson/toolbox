@@ -1,0 +1,4 @@
+#showtooltip Summon Water Elemental
+/cast [nopet][target=pet, dead] Summon Water Elemental
+/petattack
+/petdefensive
