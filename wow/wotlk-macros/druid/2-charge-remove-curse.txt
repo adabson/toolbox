@@ -1,0 +1,5 @@
+#showtooltip
+/cast [form:1] Feral Charge - Bear
+/cast [form:3] Feral Charge - Cat
+/cast [form:1][form:3,nostealth] Faerie Fire (Feral)
+/cast [@mouseover,exists] Remove Curse

@@ -1,0 +1,3 @@
+#showtooltip
+/cast [form:1] Growl
+/cast [noform:1] Tranquility

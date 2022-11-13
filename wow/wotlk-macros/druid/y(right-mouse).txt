@@ -1,0 +1,3 @@
+#showtooltip
+/cast [form:3] Challenging Roar
+/cast [noform:1] Hurricane
