@@ -1,0 +1,3 @@
+#showtooltip
+/cast [form:3] Rip
+/cast [noform:3] Nature's Grasp
