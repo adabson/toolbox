@@ -1,0 +1,3 @@
+#showtooltip
+/cast [form:1/3, @mouseover, harm][form:1/3, @target, harm] Faerie Fire (Feral)
+/cast [@mouseover, harm, noform][@target] Faerie Fire

@@ -1,0 +1,4 @@
+#showtooltip
+/cast [form:1] Lacerate
+/cast [form:3] Shred
+/cast [noform:1,noform:3] Starfire

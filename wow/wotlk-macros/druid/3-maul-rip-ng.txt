@@ -1,0 +1,4 @@
+#showtooltip
+/cast [form:1] Maul
+/cast [form:3] Rip
+/cast [noform:1,noform:3] Nature's Grasp
