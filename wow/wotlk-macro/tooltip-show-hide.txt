@@ -1,5 +1,27 @@
+Disable tooltip https://www.mmo-champion.com/threads/2198921-disable-tooltip
 /script GameTooltip:SetScript("OnShow", GameTooltip.Hide);
-
 /script GameTooltip:SetScript("OnShow", GameTooltip.Show);
 
-https://www.mmo-champion.com/threads/2198921-disable-tooltip
+
+Black bar https://www.reddit.com/r/wow/comments/aoaaan/quick_addon_question_anyone_know_which_addon/
+/run WorldFrame:SetPoint("BOTTOMRIGHT", 0, 200) will create a black bar 200 pixels high, and 
+/run WorldFrame:SetPoint("BOTTOMRIGHT", 0, 0) will remove it completely.
+
+182(5bar), 110(3bar)
+
+/run WorldFrame:SetPoint("TOPLEFT", 0, 0)
+/run WorldFrame:SetPoint("BOTTOMRIGHT", 0, 110)
+/run WorldFrame:SetPoint("BOTTOMRIGHT", 0, 182)
+
+3440-2560 = 880
+WORLD FRAME https://www.reddit.com/r/wow/comments/aoaaan/quick_addon_question_anyone_know_which_addon/
+LEFT/RIGHT BAR
+/run WorldFrame:SetPoint("TOPLEFT", 200, 0)
+/run WorldFrame:SetPoint("BOTTOMRIGHT", -340, 0)
+
+
+SAVE
+/run WorldFrame:SetUserPlaced(true)
+
+RESET
+/script WorldFrame:SetUserPlaced(false);

@@ -3,10 +3,81 @@ Bartender4DB = {
 	["namespaces"] = {
 		["ActionBars"] = {
 			["profiles"] = {
+				["Opwindfury - Arugal"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -206.9999618530273,
+								["x"] = -230.5000610351563,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						[13] = {
+						},
+						[15] = {
+						},
+					},
+				},
 				["Qil - Arugal"] = {
 					["actionbars"] = {
 						{
-							["version"] = 3,
 							["position"] = {
 								["growHorizontal"] = "BOTH",
 								["x"] = 0,
@@ -15,6 +86,7 @@ Bartender4DB = {
 								["growVertical"] = "UP",
 							},
 							["padding"] = 4,
+							["version"] = 3,
 							["states"] = {
 								["actionbar"] = true,
 								["stance"] = {
@@ -35,6 +107,10 @@ Bartender4DB = {
 						}, -- [2]
 						{
 							["version"] = 3,
+							["padding"] = 4,
+							["visibility"] = {
+								["always"] = false,
+							},
 							["position"] = {
 								["growHorizontal"] = "BOTH",
 								["x"] = 0,
@@ -42,12 +118,9 @@ Bartender4DB = {
 								["y"] = 40,
 								["growVertical"] = "UP",
 							},
-							["padding"] = 4,
-							["visibility"] = {
-								["always"] = false,
-							},
 						}, -- [3]
 						{
+							["padding"] = 4,
 							["version"] = 3,
 							["position"] = {
 								["growHorizontal"] = "BOTH",
@@ -56,9 +129,9 @@ Bartender4DB = {
 								["y"] = 0,
 								["growVertical"] = "UP",
 							},
-							["padding"] = 4,
 						}, -- [4]
 						{
+							["padding"] = 4,
 							["version"] = 3,
 							["position"] = {
 								["growHorizontal"] = "BOTH",
@@ -67,9 +140,9 @@ Bartender4DB = {
 								["y"] = 80,
 								["growVertical"] = "UP",
 							},
-							["padding"] = 4,
 						}, -- [5]
 						{
+							["padding"] = 4,
 							["version"] = 3,
 							["position"] = {
 								["growHorizontal"] = "BOTH",
@@ -78,7 +151,6 @@ Bartender4DB = {
 								["y"] = 160,
 								["growVertical"] = "UP",
 							},
-							["padding"] = 4,
 						}, -- [6]
 						{
 							["version"] = 3,
@@ -100,7 +172,7 @@ Bartender4DB = {
 						},
 					},
 				},
-				["Opwindfury - Arugal"] = {
+				["Atd - Arugal"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -159,6 +231,114 @@ Bartender4DB = {
 							},
 						}, -- [6]
 						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						[13] = {
+						},
+						[15] = {
+						},
+					},
+				},
+				["threerow"] = {
+					["actionbars"] = {
+						{
+							["version"] = 3,
+							["hidemacrotext"] = true,
+							["position"] = {
+								["growHorizontal"] = "BOTH",
+								["x"] = 0,
+								["point"] = "BOTTOM",
+								["y"] = 35,
+								["growVertical"] = "UP",
+							},
+							["padding"] = 4,
+							["states"] = {
+								["actionbar"] = true,
+								["stance"] = {
+									["DRUID"] = {
+										["prowl"] = 7,
+									},
+								},
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["point"] = "CENTER",
+								["x"] = -230.5000610351563,
+								["y"] = -206.9999618530273,
+							},
+						}, -- [2]
+						{
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["version"] = 3,
+							["alpha"] = 0.3,
+							["hidemacrotext"] = true,
+							["position"] = {
+								["x"] = 235,
+								["point"] = "BOTTOM",
+								["y"] = 35,
+								["growVertical"] = "UP",
+							},
+							["padding"] = 4,
+							["visibility"] = {
+								["always"] = false,
+							},
+						}, -- [3]
+						{
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["version"] = 3,
+							["alpha"] = 0.3,
+							["hidemacrotext"] = true,
+							["position"] = {
+								["x"] = 235,
+								["point"] = "BOTTOM",
+								["y"] = -5,
+								["growVertical"] = "UP",
+							},
+							["padding"] = 4,
+						}, -- [4]
+						{
+							["version"] = 3,
+							["hidemacrotext"] = true,
+							["position"] = {
+								["growHorizontal"] = "BOTH",
+								["x"] = 0,
+								["point"] = "BOTTOM",
+								["y"] = -5,
+								["growVertical"] = "UP",
+							},
+							["padding"] = 4,
+						}, -- [5]
+						{
+							["version"] = 3,
+							["hidemacrotext"] = true,
+							["position"] = {
+								["growHorizontal"] = "BOTH",
+								["x"] = 0,
+								["point"] = "BOTTOM",
+								["y"] = 75,
+								["growVertical"] = "UP",
+							},
+							["padding"] = 4,
+						}, -- [6]
+						{
+							["version"] = 3,
+							["position"] = {
+								["point"] = "CENTER",
+								["x"] = -230.499755859375,
+								["y"] = -206.9999923706055,
+							},
 						}, -- [7]
 						{
 						}, -- [8]
@@ -327,6 +507,7 @@ Bartender4DB = {
 								["y"] = 120,
 								["growVertical"] = "UP",
 							},
+							["hidemacrotext"] = true,
 							["padding"] = 4,
 							["states"] = {
 								["actionbar"] = true,
@@ -341,12 +522,17 @@ Bartender4DB = {
 							["enabled"] = false,
 							["version"] = 3,
 							["position"] = {
-								["point"] = "CENTER",
-								["x"] = -230.5000610351563,
 								["y"] = -206.9999618530273,
+								["x"] = -230.5000610351563,
+								["point"] = "CENTER",
 							},
 						}, -- [2]
 						{
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["padding"] = 4,
+							["alpha"] = 0.3,
 							["version"] = 3,
 							["position"] = {
 								["growHorizontal"] = "BOTH",
@@ -355,12 +541,17 @@ Bartender4DB = {
 								["y"] = 40,
 								["growVertical"] = "UP",
 							},
-							["padding"] = 4,
+							["hidemacrotext"] = true,
 							["visibility"] = {
 								["always"] = false,
 							},
 						}, -- [3]
 						{
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["padding"] = 4,
+							["alpha"] = 0.3,
 							["version"] = 3,
 							["position"] = {
 								["growHorizontal"] = "BOTH",
@@ -369,9 +560,10 @@ Bartender4DB = {
 								["y"] = 0,
 								["growVertical"] = "UP",
 							},
-							["padding"] = 4,
+							["hidemacrotext"] = true,
 						}, -- [4]
 						{
+							["hidemacrotext"] = true,
 							["version"] = 3,
 							["position"] = {
 								["growHorizontal"] = "BOTH",
@@ -383,6 +575,7 @@ Bartender4DB = {
 							["padding"] = 4,
 						}, -- [5]
 						{
+							["hidemacrotext"] = true,
 							["version"] = 3,
 							["position"] = {
 								["growHorizontal"] = "BOTH",
@@ -396,9 +589,9 @@ Bartender4DB = {
 						{
 							["version"] = 3,
 							["position"] = {
-								["point"] = "CENTER",
-								["x"] = -230.499755859375,
 								["y"] = -206.9999923706055,
+								["x"] = -230.499755859375,
+								["point"] = "CENTER",
 							},
 						}, -- [7]
 						{
@@ -491,16 +684,6 @@ Bartender4DB = {
 		},
 		["MicroMenu"] = {
 			["profiles"] = {
-				["Qil - Arugal"] = {
-					["position"] = {
-						["y"] = -25,
-						["x"] = -6,
-						["point"] = "BOTTOMLEFT",
-						["scale"] = 0.85,
-						["growVertical"] = "UP",
-					},
-					["version"] = 3,
-				},
 				["Opwindfury - Arugal"] = {
 					["padding"] = -2,
 					["version"] = 3,
@@ -509,6 +692,38 @@ Bartender4DB = {
 						["x"] = 33,
 						["point"] = "BOTTOM",
 						["scale"] = 1,
+					},
+				},
+				["Qil - Arugal"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -25,
+						["x"] = -6,
+						["point"] = "BOTTOMLEFT",
+						["scale"] = 0.85,
+						["growVertical"] = "UP",
+					},
+				},
+				["Atd - Arugal"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42,
+						["x"] = 33,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
+				},
+				["threerow"] = {
+					["version"] = 3,
+					["alpha"] = 0.3,
+					["position"] = {
+						["growHorizontal"] = "LEFT",
+						["growVertical"] = "UP",
+						["point"] = "BOTTOM",
+						["scale"] = 0.85,
+						["x"] = -235,
+						["y"] = -25,
 					},
 				},
 				["Onìtz - Arugal"] = {
@@ -525,43 +740,81 @@ Bartender4DB = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
-						["scale"] = 1,
+						["y"] = 42,
 						["x"] = 33,
 						["point"] = "BOTTOM",
-						["y"] = 42,
+						["scale"] = 1,
 					},
 				},
 				["fiverow"] = {
 					["version"] = 3,
+					["alpha"] = 0.3,
 					["position"] = {
-						["growVertical"] = "UP",
-						["point"] = "BOTTOMLEFT",
-						["scale"] = 0.85,
-						["x"] = -6,
 						["y"] = -25,
+						["growVertical"] = "UP",
+						["point"] = "BOTTOM",
+						["scale"] = 0.85,
+						["x"] = 235,
 					},
 				},
 				["Firewire - Arugal"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
-						["scale"] = 1,
+						["y"] = 42,
 						["x"] = 33,
 						["point"] = "BOTTOM",
-						["y"] = 42,
+						["scale"] = 1,
 					},
 				},
 			},
 		},
 		["BagBar"] = {
 			["profiles"] = {
+				["Opwindfury - Arugal"] = {
+					["verticalAlignment"] = "CENTER",
+					["padding"] = 4,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42,
+						["x"] = 304,
+						["point"] = "BOTTOM",
+					},
+				},
 				["Qil - Arugal"] = {
 					["version"] = 3,
+					["padding"] = 0,
+					["visibility"] = {
+						["stance"] = {
+							false, -- [1]
+						},
+					},
 					["position"] = {
 						["y"] = 20,
 						["x"] = -5,
 						["point"] = "BOTTOMLEFT",
 						["growVertical"] = "UP",
+					},
+				},
+				["Atd - Arugal"] = {
+					["verticalAlignment"] = "CENTER",
+					["padding"] = 4,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42,
+						["x"] = 304,
+						["point"] = "BOTTOM",
+					},
+				},
+				["threerow"] = {
+					["version"] = 3,
+					["alpha"] = 0.3,
+					["position"] = {
+						["growHorizontal"] = "LEFT",
+						["growVertical"] = "UP",
+						["point"] = "BOTTOM",
+						["x"] = -235,
+						["y"] = 20,
 					},
 					["padding"] = 0,
 					["visibility"] = {
@@ -570,16 +823,6 @@ Bartender4DB = {
 						},
 					},
 				},
-				["Opwindfury - Arugal"] = {
-					["verticalAlignment"] = "CENTER",
-					["padding"] = 4,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42,
-						["x"] = 304,
-						["point"] = "BOTTOM",
-					},
-				},
 				["Onìtz - Arugal"] = {
 					["verticalAlignment"] = "CENTER",
 					["padding"] = 4,
@@ -601,12 +844,13 @@ Bartender4DB = {
 					},
 				},
 				["fiverow"] = {
+					["alpha"] = 0.3,
 					["version"] = 3,
 					["position"] = {
-						["growVertical"] = "UP",
-						["point"] = "BOTTOMLEFT",
-						["x"] = -5,
 						["y"] = 20,
+						["x"] = 235,
+						["point"] = "BOTTOM",
+						["growVertical"] = "UP",
 					},
 					["padding"] = 0,
 					["visibility"] = {
@@ -637,10 +881,27 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
+				["fiverow"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 97,
+						["x"] = -5,
+						["point"] = "BOTTOMLEFT",
+					},
+				},
 			},
 		},
 		["BlizzardArt"] = {
 			["profiles"] = {
+				["Opwindfury - Arugal"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
 				["Qil - Arugal"] = {
 					["artLayout"] = "ONEBAR",
 					["version"] = 3,
@@ -650,13 +911,22 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Opwindfury - Arugal"] = {
+				["Atd - Arugal"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
 						["y"] = 47,
 						["x"] = -512,
 						["point"] = "BOTTOM",
+					},
+				},
+				["threerow"] = {
+					["version"] = 3,
+					["artLayout"] = "ONEBAR",
+					["position"] = {
+						["point"] = "BOTTOM",
+						["x"] = -256,
+						["y"] = 47,
 					},
 				},
 				["Onìtz - Arugal"] = {
@@ -678,13 +948,13 @@ Bartender4DB = {
 					},
 				},
 				["fiverow"] = {
-					["version"] = 3,
 					["artLayout"] = "ONEBAR",
 					["position"] = {
-						["point"] = "BOTTOM",
-						["x"] = -256,
 						["y"] = 47,
+						["x"] = -256,
+						["point"] = "BOTTOM",
 					},
+					["version"] = 3,
 				},
 				["Firewire - Arugal"] = {
 					["enabled"] = true,
@@ -699,16 +969,6 @@ Bartender4DB = {
 		},
 		["XPBar"] = {
 			["profiles"] = {
-				["Qil - Arugal"] = {
-					["enabled"] = true,
-					["position"] = {
-						["y"] = -4,
-						["x"] = -256.0000305175781,
-						["point"] = "TOP",
-						["scale"] = 0.5,
-					},
-					["version"] = 3,
-				},
 				["Opwindfury - Arugal"] = {
 					["enabled"] = true,
 					["version"] = 3,
@@ -716,6 +976,35 @@ Bartender4DB = {
 						["y"] = 54,
 						["x"] = -514,
 						["point"] = "BOTTOM",
+					},
+				},
+				["Qil - Arugal"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = -4,
+						["x"] = -256.0000305175781,
+						["point"] = "TOP",
+						["scale"] = 0.5,
+					},
+				},
+				["Atd - Arugal"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 54,
+						["x"] = -514,
+						["point"] = "BOTTOM",
+					},
+				},
+				["threerow"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["point"] = "TOP",
+						["scale"] = 0.5,
+						["x"] = -256.0000305175781,
+						["y"] = -4,
 					},
 				},
 				["Onìtz - Arugal"] = {
@@ -738,13 +1027,13 @@ Bartender4DB = {
 				},
 				["fiverow"] = {
 					["enabled"] = true,
-					["version"] = 3,
 					["position"] = {
+						["y"] = -4,
+						["x"] = -256.0000305175781,
 						["point"] = "TOP",
 						["scale"] = 0.5,
-						["x"] = -256.0000305175781,
-						["y"] = -4,
 					},
+					["version"] = 3,
 				},
 				["Firewire - Arugal"] = {
 					["enabled"] = true,
@@ -759,20 +1048,36 @@ Bartender4DB = {
 		},
 		["Vehicle"] = {
 			["profiles"] = {
-				["Qil - Arugal"] = {
-					["position"] = {
-						["y"] = 42.50004577636719,
-						["x"] = 104.499755859375,
-						["point"] = "CENTER",
-					},
-					["version"] = 3,
-				},
 				["Opwindfury - Arugal"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 42.50004577636719,
 						["x"] = 104.499755859375,
 						["point"] = "CENTER",
+					},
+				},
+				["Qil - Arugal"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50004577636719,
+						["x"] = 104.499755859375,
+						["point"] = "CENTER",
+					},
+				},
+				["Atd - Arugal"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50004577636719,
+						["x"] = 104.499755859375,
+						["point"] = "CENTER",
+					},
+				},
+				["threerow"] = {
+					["version"] = 3,
+					["position"] = {
+						["point"] = "BOTTOM",
+						["x"] = 235,
+						["y"] = 160,
 					},
 				},
 				["Onìtz - Arugal"] = {
@@ -792,12 +1097,12 @@ Bartender4DB = {
 					},
 				},
 				["fiverow"] = {
-					["version"] = 3,
 					["position"] = {
-						["point"] = "CENTER",
-						["x"] = 104.499755859375,
-						["y"] = 42.50004577636719,
+						["y"] = 160,
+						["x"] = 235,
+						["point"] = "BOTTOM",
 					},
+					["version"] = 3,
 				},
 				["Firewire - Arugal"] = {
 					["version"] = 3,
@@ -811,6 +1116,14 @@ Bartender4DB = {
 		},
 		["StanceBar"] = {
 			["profiles"] = {
+				["Opwindfury - Arugal"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -15,
+						["x"] = -82.50004577636719,
+						["point"] = "CENTER",
+					},
+				},
 				["Qil - Arugal"] = {
 					["version"] = 3,
 					["position"] = {
@@ -821,12 +1134,23 @@ Bartender4DB = {
 						["growVertical"] = "UP",
 					},
 				},
-				["Opwindfury - Arugal"] = {
+				["Atd - Arugal"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -15,
 						["x"] = -82.50004577636719,
 						["point"] = "CENTER",
+					},
+				},
+				["threerow"] = {
+					["version"] = 3,
+					["alpha"] = 0.3,
+					["position"] = {
+						["growVertical"] = "UP",
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+						["x"] = 235,
+						["y"] = 58,
 					},
 				},
 				["Onìtz - Arugal"] = {
@@ -847,14 +1171,15 @@ Bartender4DB = {
 					},
 				},
 				["fiverow"] = {
-					["version"] = 3,
 					["position"] = {
-						["growVertical"] = "UP",
-						["point"] = "BOTTOMLEFT",
-						["scale"] = 1,
-						["x"] = -5,
 						["y"] = 58,
+						["growVertical"] = "UP",
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+						["x"] = 235,
 					},
+					["alpha"] = 0.3,
+					["version"] = 3,
 				},
 				["Firewire - Arugal"] = {
 					["version"] = 3,
@@ -868,6 +1193,14 @@ Bartender4DB = {
 		},
 		["PetBar"] = {
 			["profiles"] = {
+				["Opwindfury - Arugal"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
 				["Qil - Arugal"] = {
 					["version"] = 3,
 					["position"] = {
@@ -877,12 +1210,23 @@ Bartender4DB = {
 						["growVertical"] = "UP",
 					},
 				},
-				["Opwindfury - Arugal"] = {
+				["Atd - Arugal"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 143,
 						["x"] = -460,
 						["point"] = "BOTTOM",
+					},
+				},
+				["threerow"] = {
+					["alpha"] = 0.3,
+					["version"] = 3,
+					["position"] = {
+						["growHorizontal"] = "LEFT",
+						["growVertical"] = "UP",
+						["point"] = "BOTTOM",
+						["x"] = -235,
+						["y"] = 88,
 					},
 				},
 				["Onìtz - Arugal"] = {
@@ -902,12 +1246,13 @@ Bartender4DB = {
 					},
 				},
 				["fiverow"] = {
+					["alpha"] = 0.3,
 					["version"] = 3,
 					["position"] = {
+						["y"] = 88,
+						["x"] = 235,
+						["point"] = "BOTTOM",
 						["growVertical"] = "UP",
-						["point"] = "BOTTOMLEFT",
-						["x"] = -5,
-						["y"] = 100,
 					},
 				},
 				["Firewire - Arugal"] = {
@@ -922,19 +1267,6 @@ Bartender4DB = {
 		},
 		["RepBar"] = {
 			["profiles"] = {
-				["Qil - Arugal"] = {
-					["enabled"] = true,
-					["position"] = {
-						["y"] = 0,
-						["x"] = -256.0000305175781,
-						["point"] = "TOP",
-						["scale"] = 0.5,
-					},
-					["visibility"] = {
-						["combat"] = false,
-					},
-					["version"] = 3,
-				},
 				["Opwindfury - Arugal"] = {
 					["enabled"] = true,
 					["version"] = 3,
@@ -942,6 +1274,41 @@ Bartender4DB = {
 						["y"] = 61,
 						["x"] = -514,
 						["point"] = "BOTTOM",
+					},
+				},
+				["Qil - Arugal"] = {
+					["enabled"] = true,
+					["visibility"] = {
+						["combat"] = false,
+					},
+					["version"] = 3,
+					["position"] = {
+						["y"] = 0,
+						["x"] = -256.0000305175781,
+						["point"] = "TOP",
+						["scale"] = 0.5,
+					},
+				},
+				["Atd - Arugal"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 61,
+						["x"] = -514,
+						["point"] = "BOTTOM",
+					},
+				},
+				["threerow"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["point"] = "TOP",
+						["scale"] = 0.5,
+						["x"] = -256.0000305175781,
+						["y"] = 0,
+					},
+					["visibility"] = {
+						["combat"] = false,
 					},
 				},
 				["Onìtz - Arugal"] = {
@@ -964,16 +1331,16 @@ Bartender4DB = {
 				},
 				["fiverow"] = {
 					["enabled"] = true,
-					["version"] = 3,
 					["position"] = {
+						["y"] = 0,
+						["x"] = -256.0000305175781,
 						["point"] = "TOP",
 						["scale"] = 0.5,
-						["x"] = -256.0000305175781,
-						["y"] = 0,
 					},
 					["visibility"] = {
 						["combat"] = false,
 					},
+					["version"] = 3,
 				},
 				["Firewire - Arugal"] = {
 					["enabled"] = true,
@@ -989,19 +1356,30 @@ Bartender4DB = {
 	},
 	["profileKeys"] = {
 		["Qil - Arugal"] = "fiverow",
-		["Onìtz - Arugal"] = "Onìtz - Arugal",
-		["Wark - Arugal"] = "Wark - Arugal",
-		["Opwindfury - Arugal"] = "Opwindfury - Arugal",
-		["Firewire - Arugal"] = "Firewire - Arugal",
+		["Atd - Arugal"] = "Atd - Arugal",
+		["Onìtz - Arugal"] = "fiverow",
+		["Wark - Arugal"] = "fiverow",
+		["Opwindfury - Arugal"] = "fiverow",
+		["Firewire - Arugal"] = "threerow",
 	},
 	["profiles"] = {
+		["Opwindfury - Arugal"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
 		["Qil - Arugal"] = {
 			["focuscastmodifier"] = false,
 			["outofrange"] = "hotkey",
 		},
-		["Opwindfury - Arugal"] = {
+		["Atd - Arugal"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["threerow"] = {
+			["focuscastmodifier"] = false,
+			["buttonlock"] = false,
 			["outofrange"] = "hotkey",
 		},
 		["Onìtz - Arugal"] = {
@@ -1017,6 +1395,7 @@ Bartender4DB = {
 		},
 		["fiverow"] = {
 			["focuscastmodifier"] = false,
+			["buttonlock"] = false,
 			["outofrange"] = "hotkey",
 		},
 		["Firewire - Arugal"] = {
