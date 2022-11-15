@@ -1,4 +1,0 @@
-#showtooltip
-/cast [form:1] Swipe (Bear)
-/cast [form:3] Swipe (Cat)
-/cast [noform:1,noform:3] Wrath

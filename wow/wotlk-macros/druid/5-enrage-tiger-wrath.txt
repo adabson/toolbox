@@ -1,0 +1,5 @@
+#showtooltip
+/cancelaura [form:1] Enrage
+/cast [form:1] Enrage
+/cast [form:3] Tiger's Fury
+/cast [noform:1,noform:3] Wrath
