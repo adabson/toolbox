@@ -1,0 +1,4 @@
+#showtooltip
+/cast [form:1] Demoralizing Roar
+/cast [form:3] Cower
+/cast [@mouseover,exists,noform:1/3][@target,noform:1/3] Abolish Poison
