@@ -9,8 +9,8 @@ Black bar https://www.reddit.com/r/wow/comments/aoaaan/quick_addon_question_anyo
 
 182(5bar), 110(3bar)
 
-/run WorldFrame:SetPoint("TOPLEFT", 0, 0)
-/run WorldFrame:SetPoint("BOTTOMRIGHT", 0, 110)
+/run WorldFrame:SetPoint("BOTTOMRIGHT", 0, 0)
+/run WorldFrame:SetPoint("BOTTOMRIGHT", 0, 105)
 /run WorldFrame:SetPoint("BOTTOMRIGHT", 0, 182)
 
 3440-2560 = 880
