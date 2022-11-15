@@ -1,0 +1,5 @@
+/script GameTooltip:SetScript("OnShow", GameTooltip.Hide);
+
+/script GameTooltip:SetScript("OnShow", GameTooltip.Show);
+
+https://www.mmo-champion.com/threads/2198921-disable-tooltip
