@@ -1,0 +1,3 @@
+#showtooltip
+/cast [mounted] Path of Frost
+/cast [nomounted] Frost Presence
