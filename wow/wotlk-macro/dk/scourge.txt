@@ -1,5 +1,5 @@
 #showtooltip
-/cast Plague Strike
+/cast Scourge Strike
 /startattack
 /petattack
 /cast Claw
