@@ -1,3 +1,4 @@
 #showtooltip
 /cast [mounted] Path of Frost
-/cast [nomounted] Blood Presence
+/cast [nomounted,nostance:1] Blood Presence
+/cast [nomounted,nostance:3] Unholy Presence
