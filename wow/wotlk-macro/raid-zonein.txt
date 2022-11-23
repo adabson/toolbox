@@ -1,0 +1,1 @@
+/run InviteUnit("a"); C_Timer.After(1,function()ConvertToRaid() end)
