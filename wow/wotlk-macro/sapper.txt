@@ -1,0 +1,2 @@
+#showtooltip Global Thermal Sapper Charge
+/use [combat] Global Thermal Sapper Charge
