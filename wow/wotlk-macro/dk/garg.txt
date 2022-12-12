@@ -1,11 +1,8 @@
+#showtooltip Summon Gargoyle
 /use [combat] 13
 /use [combat] 14
+/use [combat] 16
 /use [combat] 10
-/use [combat] Potion of Speed
-/use [combat] Manual Crowd Pummeler
 /cast Summon Gargoyle
-/cast Blood Presence
-/equipslot 16 Red Sword of Courage
-/equipslot 17 Grasscutter
 /startattack
 /petattack
