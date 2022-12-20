@@ -1,2 +1,2 @@
-/cast [flyable] Kalu'ak Whalebone Glider
-/cast Acherus Deathcharger
+/cast [flyable] Plagued Proto-Drake
+/cast Black War Bear
