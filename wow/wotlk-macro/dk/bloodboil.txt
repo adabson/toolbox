@@ -1,5 +1,5 @@
 #showtooltip
-/cast Scourge Strike
+/cast Blood Boil
 /startattack [combat]
 /petattack [combat]
 /cast [combat] Claw

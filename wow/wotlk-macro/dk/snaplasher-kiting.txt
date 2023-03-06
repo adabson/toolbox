@@ -1,0 +1,3 @@
+#showtooltip Chains of Ice
+/target Snaplasher
+/cast Chains of Ice
