@@ -1,0 +1,5 @@
+#showtooltip
+/cast Unbreakable Armor
+/use [combat] 10
+/use [combat] 13
+/use [combat] 14
