@@ -14,8 +14,8 @@ Bartender4DB = {
 								["y"] = 75,
 								["growVertical"] = "UP",
 							},
-							["hidemacrotext"] = true,
 							["padding"] = 4,
+							["hidemacrotext"] = true,
 							["states"] = {
 								["actionbar"] = true,
 								["stance"] = {
@@ -38,7 +38,7 @@ Bartender4DB = {
 							["skin"] = {
 								["Zoom"] = true,
 							},
-							["hidemacrotext"] = true,
+							["padding"] = 4,
 							["alpha"] = 0.3,
 							["version"] = 3,
 							["position"] = {
@@ -48,7 +48,7 @@ Bartender4DB = {
 								["scale"] = 0.5,
 								["x"] = 0,
 							},
-							["padding"] = 4,
+							["hidemacrotext"] = true,
 							["visibility"] = {
 								["always"] = false,
 							},
@@ -57,7 +57,7 @@ Bartender4DB = {
 							["skin"] = {
 								["Zoom"] = true,
 							},
-							["hidemacrotext"] = true,
+							["padding"] = 4,
 							["alpha"] = 0.3,
 							["version"] = 3,
 							["position"] = {
@@ -67,10 +67,10 @@ Bartender4DB = {
 								["scale"] = 0.5,
 								["x"] = 0,
 							},
-							["padding"] = 4,
+							["hidemacrotext"] = true,
 						}, -- [4]
 						{
-							["hidemacrotext"] = true,
+							["padding"] = 4,
 							["version"] = 3,
 							["position"] = {
 								["growHorizontal"] = "BOTH",
@@ -79,10 +79,10 @@ Bartender4DB = {
 								["y"] = 35,
 								["growVertical"] = "UP",
 							},
-							["padding"] = 4,
+							["hidemacrotext"] = true,
 						}, -- [5]
 						{
-							["hidemacrotext"] = true,
+							["padding"] = 4,
 							["version"] = 3,
 							["position"] = {
 								["growHorizontal"] = "BOTH",
@@ -91,7 +91,7 @@ Bartender4DB = {
 								["y"] = 115,
 								["growVertical"] = "UP",
 							},
-							["padding"] = 4,
+							["hidemacrotext"] = true,
 						}, -- [6]
 						{
 							["version"] = 3,
@@ -100,6 +100,294 @@ Bartender4DB = {
 								["x"] = -230.499755859375,
 								["point"] = "CENTER",
 							},
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						[13] = {
+						},
+						[15] = {
+						},
+					},
+				},
+				["Abnsd - Arugal"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -207,
+								["x"] = -230.4999694824219,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						[13] = {
+						},
+						[15] = {
+						},
+					},
+				},
+				["Turkeyjerky - Arugal"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -207.0000228881836,
+								["x"] = -230.4999694824219,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						[13] = {
+						},
+						[15] = {
+						},
+					},
+				},
+				["Sadfass - Arugal"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -207.0000228881836,
+								["x"] = -230.4999694824219,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						[13] = {
+						},
+						[15] = {
+						},
+					},
+				},
+				["Pooges - Arugal"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -207,
+								["x"] = -230.4999694824219,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
 						}, -- [7]
 						{
 						}, -- [8]
@@ -132,6 +420,46 @@ Bartender4DB = {
 					},
 					["padding"] = -4,
 				},
+				["Abnsd - Arugal"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = 33,
+						["point"] = "BOTTOM",
+						["y"] = 42,
+					},
+				},
+				["Turkeyjerky - Arugal"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = 33,
+						["point"] = "BOTTOM",
+						["y"] = 42,
+					},
+				},
+				["Sadfass - Arugal"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = 33,
+						["point"] = "BOTTOM",
+						["y"] = 42,
+					},
+				},
+				["Pooges - Arugal"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = 33,
+						["point"] = "BOTTOM",
+						["y"] = 42,
+					},
+				},
 			},
 		},
 		["BagBar"] = {
@@ -142,16 +470,55 @@ Bartender4DB = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -3,
-						["growVertical"] = "UP",
-						["point"] = "BOTTOM",
-						["scale"] = 0.5,
 						["x"] = 235,
+						["point"] = "BOTTOM",
+						["growVertical"] = "UP",
 					},
 					["padding"] = 0,
 					["visibility"] = {
 						["stance"] = {
 							false, -- [1]
 						},
+					},
+				},
+				["Abnsd - Arugal"] = {
+					["verticalAlignment"] = "CENTER",
+					["padding"] = 4,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42,
+						["x"] = 304,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Turkeyjerky - Arugal"] = {
+					["verticalAlignment"] = "CENTER",
+					["padding"] = 4,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42,
+						["x"] = 304,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Sadfass - Arugal"] = {
+					["verticalAlignment"] = "CENTER",
+					["padding"] = 4,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42,
+						["x"] = 304,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Pooges - Arugal"] = {
+					["verticalAlignment"] = "CENTER",
+					["padding"] = 4,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42,
+						["x"] = 304,
+						["point"] = "BOTTOM",
 					},
 				},
 			},
@@ -167,13 +534,13 @@ Bartender4DB = {
 					},
 				},
 				["sym"] = {
-					["alpha"] = 0.3,
 					["version"] = 3,
+					["alpha"] = 0.3,
 					["position"] = {
-						["scale"] = 0.6,
+						["y"] = 20,
 						["x"] = -214,
 						["point"] = "BOTTOM",
-						["y"] = 20,
+						["scale"] = 0.6,
 					},
 				},
 				["fiverow"] = {
@@ -206,6 +573,42 @@ Bartender4DB = {
 					},
 					["version"] = 3,
 				},
+				["Abnsd - Arugal"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Turkeyjerky - Arugal"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Sadfass - Arugal"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Pooges - Arugal"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
 			},
 		},
 		["XPBar"] = {
@@ -220,6 +623,42 @@ Bartender4DB = {
 					},
 					["version"] = 3,
 				},
+				["Abnsd - Arugal"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 54,
+						["x"] = -514,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Turkeyjerky - Arugal"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 54,
+						["x"] = -514,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Sadfass - Arugal"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 54,
+						["x"] = -514,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Pooges - Arugal"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 54,
+						["x"] = -514,
+						["point"] = "BOTTOM",
+					},
+				},
 			},
 		},
 		["Vehicle"] = {
@@ -231,6 +670,38 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 					["version"] = 3,
+				},
+				["Abnsd - Arugal"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50003051757813,
+						["x"] = 104.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Turkeyjerky - Arugal"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.49998474121094,
+						["x"] = 104.4998779296875,
+						["point"] = "CENTER",
+					},
+				},
+				["Sadfass - Arugal"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.49998474121094,
+						["x"] = 104.4998779296875,
+						["point"] = "CENTER",
+					},
+				},
+				["Pooges - Arugal"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50003051757813,
+						["x"] = 104.5,
+						["point"] = "CENTER",
+					},
 				},
 			},
 		},
@@ -252,6 +723,38 @@ Bartender4DB = {
 					},
 					["padding"] = 4,
 				},
+				["Abnsd - Arugal"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99994659423828,
+						["x"] = -82.49998474121094,
+						["point"] = "CENTER",
+					},
+				},
+				["Turkeyjerky - Arugal"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -15.00000762939453,
+						["x"] = -82.4998779296875,
+						["point"] = "CENTER",
+					},
+				},
+				["Sadfass - Arugal"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -15.00000762939453,
+						["x"] = -82.4998779296875,
+						["point"] = "CENTER",
+					},
+				},
+				["Pooges - Arugal"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99994659423828,
+						["x"] = -82.49998474121094,
+						["point"] = "CENTER",
+					},
+				},
 			},
 		},
 		["PetBar"] = {
@@ -272,6 +775,38 @@ Bartender4DB = {
 					},
 					["padding"] = 4,
 				},
+				["Abnsd - Arugal"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Turkeyjerky - Arugal"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Sadfass - Arugal"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Pooges - Arugal"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
 			},
 		},
 		["RepBar"] = {
@@ -289,20 +824,83 @@ Bartender4DB = {
 					},
 					["version"] = 3,
 				},
+				["Abnsd - Arugal"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 61,
+						["x"] = -514,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Turkeyjerky - Arugal"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 61,
+						["x"] = -514,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Sadfass - Arugal"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 61,
+						["x"] = -514,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Pooges - Arugal"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 61,
+						["x"] = -514,
+						["point"] = "BOTTOM",
+					},
+				},
 			},
 		},
 	},
 	["profileKeys"] = {
-		["Qil - Arugal"] = "sym",
+		["Abnsd - Arugal"] = "Abnsd - Arugal",
 		["Opwindfury - Arugal"] = "sym",
-		["Wark - Arugal"] = "sym",
-		["Onìtz - Arugal"] = "sym",
+		["Sadfass - Arugal"] = "Sadfass - Arugal",
 		["Firewire - Arugal"] = "sym",
+		["Turkeyjerky - Arugal"] = "Turkeyjerky - Arugal",
+		["Onìtz - Arugal"] = "sym",
+		["Wark - Arugal"] = "sym",
+		["Pooges - Arugal"] = "Pooges - Arugal",
+		["Qil - Arugal"] = "sym",
 	},
 	["profiles"] = {
 		["sym"] = {
 			["focuscastmodifier"] = false,
 			["buttonlock"] = false,
+			["minimapIcon"] = {
+				["minimapPos"] = 348.544503203205,
+			},
+			["outofrange"] = "hotkey",
+		},
+		["Abnsd - Arugal"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Turkeyjerky - Arugal"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Sadfass - Arugal"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Pooges - Arugal"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
 	},
