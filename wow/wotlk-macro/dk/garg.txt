@@ -1,8 +1,0 @@
-#showtooltip Summon Gargoyle
-/use [combat] 13
-/use [combat] 14
-/use [combat] 16
-/use 10
-/cast Summon Gargoyle
-/startattack
-/petattack

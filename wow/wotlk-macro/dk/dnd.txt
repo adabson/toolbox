@@ -1,1 +1,2 @@
-/cast [@cursor] Death and Decay
+#showtooltip
+/cast [@player] Death and Decay

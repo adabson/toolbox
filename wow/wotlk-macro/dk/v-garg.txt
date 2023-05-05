@@ -1,0 +1,5 @@
+#showtooltip Summon Gargoyle
+/use [combat] 10
+/use [combat] 13
+/use [combat] 14
+/cast Summon Gargoyle
