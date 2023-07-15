@@ -1,0 +1,2 @@
+/equipslot 16 Void Sabre
+/equipslot 17 Sorthalis, Hammer of the Watchers
