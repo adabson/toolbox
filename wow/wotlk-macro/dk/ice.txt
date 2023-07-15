@@ -1,7 +1,8 @@
 #showtooltip
 /cast Icy Touch
+/focus
+/equipslot 16 Void Sabre
+/equipslot 17 Sorthalis, Hammer of the Watchers
 /startattack
 /petattack
 /cast Claw
-/focus
-/run SetRaidTargetIcon("target", 8)
