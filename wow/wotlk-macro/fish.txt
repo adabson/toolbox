@@ -1,0 +1,3 @@
+#showtooltip fishing
+/equip Nat's Lucky Fishing Pole
+/cast fishing

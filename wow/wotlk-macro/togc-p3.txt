@@ -1,0 +1,4 @@
+#showtooltip
+/cancelaura Payer of Fortitude
+/cancelaura Commanding Shout
+/cancelaura Fire Festival Fortitude
