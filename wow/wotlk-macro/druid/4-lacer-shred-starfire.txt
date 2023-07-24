@@ -1,4 +1,5 @@
 #showtooltip
 /cast [form:1] Lacerate
-/cast [form:3] Shred
+/cast [form:3,stealth] Ravage
+/cast [form:3,nostealth] Shred
 /cast [noform:1,noform:3] Starfire
