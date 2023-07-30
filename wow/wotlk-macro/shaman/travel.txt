@@ -1,0 +1,3 @@
+#showtooltip Ghost Wolf
+/cancelform
+/cast Ghost Wolf
