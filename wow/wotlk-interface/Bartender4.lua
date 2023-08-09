@@ -35,6 +35,10 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["version"] = 3,
 							["position"] = {
 								["y"] = -2,
 								["growVertical"] = "UP",
@@ -42,16 +46,12 @@ Bartender4DB = {
 								["scale"] = 0.5,
 								["x"] = 0,
 							},
-							["version"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
-							},
 							["alpha"] = 0.3,
-							["padding"] = 4,
+							["hidemacrotext"] = true,
 							["visibility"] = {
 								["always"] = false,
 							},
-							["hidemacrotext"] = true,
+							["padding"] = 4,
 						}, -- [3]
 						{
 							["version"] = 3,
@@ -65,9 +65,9 @@ Bartender4DB = {
 								["scale"] = 0.5,
 								["x"] = 0,
 							},
-							["padding"] = 4,
-							["alpha"] = 0.3,
 							["hidemacrotext"] = true,
+							["alpha"] = 0.3,
+							["padding"] = 4,
 						}, -- [4]
 						{
 							["padding"] = 4,
@@ -203,6 +203,11 @@ Bartender4DB = {
 							["padding"] = 4,
 							["states"] = {
 								["actionbar"] = true,
+								["stance"] = {
+									["DRUID"] = {
+										["prowl"] = 7,
+									},
+								},
 							},
 						}, -- [1]
 						{
@@ -263,8 +268,20 @@ Bartender4DB = {
 							["padding"] = 4,
 						}, -- [6]
 						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = -207,
+								["x"] = -230.4999694824219,
+								["point"] = "CENTER",
+							},
 						}, -- [7]
 						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = -166,
+								["x"] = -228,
+								["point"] = "CENTER",
+							},
 						}, -- [8]
 						{
 						}, -- [9]
@@ -617,11 +634,11 @@ Bartender4DB = {
 	["profileKeys"] = {
 		["Dark - Arugal"] = "bar-bar",
 		["Quill - Arugal"] = "bar-bar",
-		["Opwindfury - Arugal"] = "sym",
-		["Qil - Arugal"] = "sym",
+		["Opwindfury - Arugal"] = "bar-bar",
+		["Qil - Arugal"] = "bar-bar",
 		["Gox - Arugal"] = "bar-bar",
-		["Onìtz - Arugal"] = "sym",
-		["Wark - Arugal"] = "sym",
+		["Onìtz - Arugal"] = "bar-bar",
+		["Wark - Arugal"] = "bar-bar",
 		["Onitz - Arugal"] = "bar-bar",
 		["Onîtz - Arugal"] = "bar-bar",
 		["Tugboat - Arugal"] = "bar-bar",
@@ -650,6 +667,9 @@ Bartender4DB = {
 		["bar-bar"] = {
 			["focuscastmodifier"] = false,
 			["buttonlock"] = false,
+			["minimapIcon"] = {
+				["minimapPos"] = 357.3074896792433,
+			},
 			["outofrange"] = "hotkey",
 		},
 	},
