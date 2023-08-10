@@ -1,0 +1,3 @@
+#showtooltip
+/cast Hammer of wrath
+/cast Judgement of Justice
