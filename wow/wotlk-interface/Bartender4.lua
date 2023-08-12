@@ -11,18 +11,18 @@ Bartender4DB = {
 								["growHorizontal"] = "BOTH",
 								["x"] = 0,
 								["point"] = "BOTTOM",
-								["y"] = 75,
 								["growVertical"] = "UP",
+								["y"] = 75,
 							},
 							["padding"] = 4,
 							["hidemacrotext"] = true,
 							["states"] = {
-								["actionbar"] = true,
 								["stance"] = {
 									["DRUID"] = {
 										["prowl"] = 7,
 									},
 								},
+								["actionbar"] = true,
 							},
 						}, -- [1]
 						{
@@ -35,9 +35,7 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["skin"] = {
-								["Zoom"] = true,
-							},
+							["hidemacrotext"] = true,
 							["version"] = 3,
 							["position"] = {
 								["y"] = -2,
@@ -46,18 +44,23 @@ Bartender4DB = {
 								["scale"] = 0.5,
 								["x"] = 0,
 							},
-							["alpha"] = 0.3,
-							["hidemacrotext"] = true,
 							["visibility"] = {
 								["always"] = false,
 							},
 							["padding"] = 4,
+							["alpha"] = 0.3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
 						}, -- [3]
 						{
 							["version"] = 3,
 							["skin"] = {
 								["Zoom"] = true,
 							},
+							["hidemacrotext"] = true,
+							["padding"] = 4,
+							["alpha"] = 0.3,
 							["position"] = {
 								["y"] = 18,
 								["growVertical"] = "UP",
@@ -65,32 +68,29 @@ Bartender4DB = {
 								["scale"] = 0.5,
 								["x"] = 0,
 							},
-							["hidemacrotext"] = true,
-							["alpha"] = 0.3,
-							["padding"] = 4,
 						}, -- [4]
 						{
-							["padding"] = 4,
 							["hidemacrotext"] = true,
+							["padding"] = 4,
 							["version"] = 3,
 							["position"] = {
 								["growHorizontal"] = "BOTH",
 								["x"] = 0,
 								["point"] = "BOTTOM",
-								["y"] = 35,
 								["growVertical"] = "UP",
+								["y"] = 35,
 							},
 						}, -- [5]
 						{
-							["padding"] = 4,
 							["hidemacrotext"] = true,
+							["padding"] = 4,
 							["version"] = 3,
 							["position"] = {
 								["growHorizontal"] = "BOTH",
 								["x"] = 0,
 								["point"] = "BOTTOM",
-								["y"] = 115,
 								["growVertical"] = "UP",
+								["y"] = 115,
 							},
 						}, -- [6]
 						{
@@ -140,8 +140,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -150,8 +150,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -300,16 +300,16 @@ Bartender4DB = {
 		["MicroMenu"] = {
 			["profiles"] = {
 				["sym"] = {
-					["version"] = 3,
-					["padding"] = -4,
 					["alpha"] = 0.3,
+					["padding"] = -4,
+					["version"] = 3,
 					["position"] = {
 						["growHorizontal"] = "LEFT",
 						["growVertical"] = "UP",
 						["point"] = "BOTTOM",
 						["scale"] = 0.5,
-						["y"] = -14,
 						["x"] = 0,
+						["y"] = -14,
 					},
 				},
 				["Default"] = {
@@ -345,13 +345,13 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 						["growVertical"] = "UP",
 					},
-					["alpha"] = 0.3,
-					["padding"] = 0,
 					["visibility"] = {
 						["stance"] = {
 							false, -- [1]
 						},
 					},
+					["padding"] = 0,
+					["alpha"] = 0.3,
 					["keyring"] = false,
 				},
 				["Default"] = {
@@ -379,12 +379,12 @@ Bartender4DB = {
 		["MultiCast"] = {
 			["profiles"] = {
 				["bar-bar"] = {
-					["version"] = 3,
 					["position"] = {
-						["y"] = 70,
+						["y"] = -70,
 						["x"] = 0,
 						["point"] = "BOTTOMLEFT",
 					},
+					["version"] = 3,
 				},
 				["Default"] = {
 					["version"] = 3,
@@ -403,8 +403,8 @@ Bartender4DB = {
 					},
 				},
 				["sym"] = {
-					["version"] = 3,
 					["alpha"] = 0.3,
+					["version"] = 3,
 					["position"] = {
 						["y"] = 20,
 						["x"] = -214,
@@ -421,8 +421,8 @@ Bartender4DB = {
 					},
 				},
 				["threesym"] = {
-					["alpha"] = 0.3,
 					["version"] = 3,
+					["alpha"] = 0.3,
 					["position"] = {
 						["y"] = 34,
 						["x"] = -5,
@@ -434,13 +434,13 @@ Bartender4DB = {
 		["BlizzardArt"] = {
 			["profiles"] = {
 				["sym"] = {
-					["artLayout"] = "ONEBAR",
-					["version"] = 3,
 					["position"] = {
 						["y"] = 47,
 						["x"] = -256,
 						["point"] = "BOTTOM",
 					},
+					["version"] = 3,
+					["artLayout"] = "ONEBAR",
 				},
 				["Default"] = {
 					["enabled"] = true,
@@ -494,6 +494,43 @@ Bartender4DB = {
 				},
 			},
 		},
+		["StanceBar"] = {
+			["profiles"] = {
+				["sym"] = {
+					["version"] = 3,
+					["skin"] = {
+						["Zoom"] = true,
+					},
+					["padding"] = 4,
+					["alpha"] = 0.3,
+					["position"] = {
+						["y"] = -3,
+						["growVertical"] = "UP",
+						["point"] = "BOTTOM",
+						["scale"] = 0.61,
+						["x"] = -124,
+						["growHorizontal"] = "LEFT",
+					},
+				},
+				["Default"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -15.00000762939453,
+						["x"] = -82.4998779296875,
+						["point"] = "CENTER",
+					},
+				},
+				["bar-bar"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 33,
+						["x"] = 294,
+						["point"] = "BOTTOMLEFT",
+						["scale"] = 1,
+					},
+				},
+			},
+		},
 		["Vehicle"] = {
 			["profiles"] = {
 				["sym"] = {
@@ -522,43 +559,6 @@ Bartender4DB = {
 				},
 			},
 		},
-		["StanceBar"] = {
-			["profiles"] = {
-				["sym"] = {
-					["version"] = 3,
-					["skin"] = {
-						["Zoom"] = true,
-					},
-					["padding"] = 4,
-					["alpha"] = 0.3,
-					["position"] = {
-						["y"] = -3,
-						["growVertical"] = "UP",
-						["point"] = "BOTTOM",
-						["scale"] = 0.61,
-						["growHorizontal"] = "LEFT",
-						["x"] = -124,
-					},
-				},
-				["Default"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -15.00000762939453,
-						["x"] = -82.4998779296875,
-						["point"] = "CENTER",
-					},
-				},
-				["bar-bar"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 33,
-						["x"] = 294,
-						["point"] = "BOTTOMLEFT",
-						["scale"] = 1,
-					},
-				},
-			},
-		},
 		["PetBar"] = {
 			["profiles"] = {
 				["sym"] = {
@@ -573,8 +573,8 @@ Bartender4DB = {
 						["growVertical"] = "UP",
 						["point"] = "BOTTOM",
 						["scale"] = 0.61,
-						["growHorizontal"] = "LEFT",
 						["x"] = 0,
+						["growHorizontal"] = "LEFT",
 					},
 				},
 				["Default"] = {
@@ -599,10 +599,10 @@ Bartender4DB = {
 			["profiles"] = {
 				["sym"] = {
 					["enabled"] = true,
+					["version"] = 3,
 					["visibility"] = {
 						["combat"] = false,
 					},
-					["version"] = 3,
 					["position"] = {
 						["y"] = 0,
 						["x"] = -255.9999694824219,
@@ -646,8 +646,8 @@ Bartender4DB = {
 		["Onítz - Arugal"] = "bar-bar",
 		["Cyphlix - Arugal"] = "bar-bar",
 		["Fix - Arugal"] = "bar-bar",
-		["Oniitz - Arugal"] = "bar-bar",
 		["Tar - Arugal"] = "bar-bar",
+		["Oniitz - Arugal"] = "bar-bar",
 		["Shadow - Arugal"] = "bar-bar",
 	},
 	["profiles"] = {
@@ -656,8 +656,8 @@ Bartender4DB = {
 			["minimapIcon"] = {
 				["minimapPos"] = 348.544503203205,
 			},
-			["buttonlock"] = false,
 			["outofrange"] = "hotkey",
+			["buttonlock"] = false,
 		},
 		["Default"] = {
 			["focuscastmodifier"] = false,
