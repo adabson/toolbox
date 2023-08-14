@@ -1,4 +1,0 @@
-#showtooltip
-/cast Mangle (Cat)
-/focus
-/startattack

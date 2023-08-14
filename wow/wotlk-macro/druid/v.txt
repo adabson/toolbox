@@ -1,0 +1,5 @@
+#showtooltip
+/cast Berserk
+/use 10
+/use 13
+/use 14

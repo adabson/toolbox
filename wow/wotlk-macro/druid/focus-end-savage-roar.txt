@@ -1,2 +1,0 @@
-#showtooltip
-/cast [@focus,harm][@target] Savage Roar

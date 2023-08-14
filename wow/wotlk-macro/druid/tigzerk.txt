@@ -1,6 +1,0 @@
-#showtooltip
-/cast Tiger's Fury
-/use 10
-/use 13
-/use 14
-/cast Berserk
