@@ -1,0 +1,3 @@
+#showtooltip [form:3,combat] Rip; [swimming] aquatic form; travel form
+/cast [form:3,combat] Rip
+/cast [swimming] !aquatic Form; [combat] !travel form; [flyable] !swift flight form; [noswimming] !travel form

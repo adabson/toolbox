@@ -1,0 +1,3 @@
+#showtooltip
+/cast [@mouseover,help,nodead][@player] Cleanse Spirit
+/cast [@mouseover,harm,nodead][@player] Purge
