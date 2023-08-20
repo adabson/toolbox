@@ -1,0 +1,4 @@
+#showtooltip
+/cast Flame Shock
+/startattack
+/petattack

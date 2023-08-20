@@ -1,4 +1,5 @@
-/run if not UnitAffectingCombat("player")then for i=1,4 do n="t"..i CreateFrame("Button",n,UIParent,"SecureUnitButtonTemplate")_G[n]:SetAttribute("type","destroytotem")_G[n]:SetAttribute("totem-slot",i)end end
+/petpassive
+/run for i=1,4 do n="t"..i CreateFrame("Button",n,UIParent,"SecureUnitButtonTemplate")_G[n]:SetAttribute("type","destroytotem")_G[n]:SetAttribute("totem-slot",i)end
 /click t1
 /click t2
 /click t3
