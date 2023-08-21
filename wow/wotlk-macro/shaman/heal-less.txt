@@ -1,2 +1,2 @@
 #showtooltip
-/use [@mouseover,help,nodead][help,nodead][@player] lesser healing wave
+/use [@mouseover,@player,help,nodead] lesser healing wave
