@@ -1,2 +1,2 @@
 #showtooltip
-/use [@mouseover,@player,help,nodead] Healing wave
+/use [@mouseover,help,nodead,party,raid][help,nodead][@player] Healing wave

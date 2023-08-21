@@ -1,2 +1,2 @@
 #showtooltip
-/use [@mouseover,help,nodead][help,nodead][@player] earth shield
+/use [@mouseover,help,nodead,party,raid][help,nodead][@player] earth shield

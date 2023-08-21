@@ -1,2 +1,2 @@
 #showtooltip
-/use [@mouseover,@player,help,nodead] chain heal
+/use [@mouseover,help,nodead,party,raid][help,nodead][@player] chain heal

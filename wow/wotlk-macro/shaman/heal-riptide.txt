@@ -1,0 +1,2 @@
+#showtooltip
+/cast [@mouseover,help,nodead,party,raid][help,nodead][@player] riptide
