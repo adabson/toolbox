@@ -1,3 +1,3 @@
 #showtooltip
-/cast [@mouseover,help,nodead,party,raid][help,nodead][@player] Cleanse Spirit
-/cast [nodead,harm] Cure Toxins
+/cast [nodead,harm] Purge
+/cast [@mouseover,help,nodead,party,raid][help,nodead][@player] Cure Toxins
