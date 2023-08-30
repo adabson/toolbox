@@ -1,5 +1,5 @@
-#showtooltip [flyable]Blue Wind Rider; Swift Orange Raptor
+#showtooltip [flyable]Swift Purple Wind Rider; Swift Orange Raptor
 /dismount
-/cast [flyable, nomounted] Blue Wind Rider
+/cast [flyable, nomounted] Swift Purple Wind Rider
 /cast [noflyable, nomounted] Swift Orange Raptor
 /cast [nomounted] Swift Orange Raptor

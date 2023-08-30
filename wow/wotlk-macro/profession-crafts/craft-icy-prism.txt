@@ -1,0 +1,1 @@
+/run PickupSpell(62242)

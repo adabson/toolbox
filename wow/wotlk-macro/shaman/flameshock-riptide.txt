@@ -1,0 +1,5 @@
+#showtooltip
+/cast [harm,nodead] flame shock
+/startattack [harm,nodead]
+/petattack [harm,nodead]
+/cast [@mouseover,help,nodead,party,raid][help,nodead][@player] riptide
