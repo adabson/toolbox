@@ -1,0 +1,8 @@
+Do-It-Yourself
+(Optional) To make the changes yourself in DSMapStudio
+Open your regulation.bin file with DSMapStudio and find Param "SpEffectParam"
+Navigate to row 310000 to find the Crimson Amber Medallion.
+Change the "Absorption %:" fields to 0.
+Save changes and start game. 
+
+https://www.nexusmods.com/eldenring/mods/979/
