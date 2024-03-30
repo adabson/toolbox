@@ -2,7 +2,7 @@
 HotkeyNet Log File
 -------------------------------------------------------------------------------------
 
-File opened at 18:23:17 on Thursday, June 22, 2023
+File opened at 19:44:24 on Monday, September 4, 2023
 DNS name: Fieryboi
 OS version: Microsoft  (build 9200)
 
@@ -21,13 +21,13 @@ CPU:
 
 
 Memory:
-	Load = 21%; 
+	Load = 26%; 
 	Total physical = 65481 MB; 
-	Available physical = 51239 MB; 
+	Available physical = 47850 MB; 
 	Total page file = 75209 MB; 
-	Avail page file = 55743 MB; 
+	Avail page file = 51845 MB; 
 	Total virtual = 2047 MB; 
-	Avail virtual = 1975 MB; 
+	Avail virtual = 1976 MB; 
 	Avail extended virtual = 0 MB.
 
 
@@ -50,7 +50,7 @@ Adapter 0:
 
 	DHCP Enabled	Yes
 	DHCP Server	192.168.1.1
-	Lease Obtained	Thu Jun 22 17:46:23 2023
+	Lease Obtained	Mon Sep 04 09:37:00 2023
 
 	Have WINS	No
 
@@ -137,4 +137,4 @@ Start as server.
 This IP: 192.168.56.1
 
 C:\d\sou\cpp\macro\wininet.cpp 88: InternetOpenUrl(); system error 12007: 
-C:\d\sou\cpp\macro\wininet.cpp 91: URL = http://hotkeynet.net/auth/auth.php?6SAYWbMdJ6njoFv6XkW3BaKv56BVoJIt1ss0PwRzqNJZyZyBwEXvDJvyqtdRrYUrNVd9+Bc350GtW7Eh+bDF6exuSy8TcVFMKBxanHAYe/ONy+AiHSbyHJAuYUR/OT0HwFuhGfOUvOjbP1lSaXou86nsPX3p/eqUYo+8GMjwz0vsFZ+nvFEnjfyNrC8IfpCxfmN8CTT2ZWOWTjnw/1u/oB9RspaOozD1pn/8fVvaDxDTypvRHuuYcWPBtznZSi0PBP6dMa305HnZ72125+ZVtteewBqp1T2luEnr8cpiQp6/o91d2+pyqok1I+sz7iVutpGJjmEHt3T7bsstVXlB/79nBdSbd/bTWNL+6E/C9HvhrQiDPjL7Dp818mcexL+YmbEkChbOIHl45xHrO8FmMndD1iIQK4d4zkWTuFRxRltvOrVGgyfyO1qHyQUSOvW0T8iDBYTXLxNOM92QXtX4rd5XopcincDs7ZYyfFSS53HUxkBBDoU8vhIEGute9qRFSB7D1zAFLeFENGxB
+C:\d\sou\cpp\macro\wininet.cpp 91: URL = http://hotkeynet.net/auth/auth.php?LmCcww7Z9v5CuEGPJjpexjpUjAoO3fbYNwhGHWKM/IPk36lTebkitsZwgLNV90wv+Bx4v3hvi1sSJWi63xCv9+LQniUyfcozes/gsoPxbRsxphyUod7jpjTN5/hCMZPz631S2L6s1cE+bsBw+NckWIjmA/+bV3MuB8IuDx4pCn4+Eey6hklxWioi+PxHTuyeCdU1ql2eCDHB42+8pcZNWgLd+2V+53MzdvKNa2lgI0aoQk/m7h8EdeQnsEVcWIFawRVUVYmKUnt4QKh9uMcW0oN6Eem2sX2WV7Rq7WVtAm12VWKsLt2SvW4Ehedb+f2ukJyJGRT2UIYVxDNT3B/X+s94f2QI4dcc69BCc6qFn9/XWcaW6QzhDt5+i7Mk24BVIRp15gnSac9ph6bmX21Kodg7KfqBClO0TvsIp1B4te8yE+0qCqOAZS5zibO+IARPqEKD6Bxfr70aUCHYrWpQ0oDXx1bM5bGTs8dUrww6RZfUA/VKdbexFDhFiz57iPvtI9KVLvRXGnKdrC0L
