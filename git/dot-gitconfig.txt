@@ -12,3 +12,18 @@
 [alias]
   lg = log -n 20 --pretty=format:"%C(Yellow)%h%Creset|%ar|%C(Red)%an%Creset|%s" -20
   g = "!f() { git add -A && git commit -m \"$@\" && git push; }; f"
+  respawn = "!f() { \
+    branch=$(git rev-parse --abbrev-ref HEAD) || exit 1; \
+    base=${1:-master}; \
+    git fetch origin --quiet || exit 1; \
+    if [ \"$branch\" = \"master\" ] || [ \"$branch\" = \"main\" ]; then \
+      echo \"[respawn] Syncing $branch (ff-only)\"; \
+      git merge --ff-only \"origin/$branch\"; \
+    else \
+      if ! git diff --quiet || ! git diff --cached --quiet; then \
+        echo \"[respawn] ❌ Working tree not clean. Commit/stash first.\"; exit 1; \
+      fi; \
+      echo \"[respawn] Rebasing $branch onto origin/$base\"; \
+      git rebase \"origin/$base\"; \
+    fi; \
+  }; f"
